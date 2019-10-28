@@ -55,5 +55,15 @@ The first step would be to combine all of the .csv files from the different year
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
+A first step would be to combine the different dataset.
+
+Second step would be essentially do all kind of graphs that could answer to upper questions : plotting the number of bikes used in funtion of year, time of day, station, uses duration.
+
+For a better visualisation of the uses of the bikes, we could draw multiple Montreal map containing the informations of public transportation, main bikes road and bixi main axis.
+
+Third step is answering to the questions. Was our hypothesis correct ? Do we see something unexpected ? Some dataset could be added to try to answer to other interesting questions coming, then repeat step 2 and 3 until we are satisfied.
+
+To end, we should propose what could be added to/removed from this system to improve it, and what are the consequences we expect from our changes. Would it also improve significantly social good ?
+
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
