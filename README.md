@@ -16,7 +16,7 @@ Do the trips taken allign with existing public transport lines or are they used 
 
 Are there stations where bikes are underused and ones where more are required?
 
-Are some areas of Montreal more bike friendly than others (i.e. have bike lanes or are smaller roads)?
+Are some areas of Montreal more bike friendly than others (i.e. have bike lanes or are smaller roads) and is this bike freindliness correlated with more trips done in that area ?
 
 Are most users members?
 
@@ -42,6 +42,8 @@ It unfortunatly doesn't include data on the station's status at time of rental (
 Montreal public transport database - 
 routes:
 http://donnees.ville.montreal.qc.ca/dataset/stm-traces-des-lignes-de-bus-et-de-metro
+
+This dataset is a shapefile. It contains the gps cordinates of sequences of points representing different traces. It can be converted to geoJSON which may be easier to treat.
 
 timetable: (only current data)
 http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-des-bus-et-du-metro
