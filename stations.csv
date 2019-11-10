@@ -1,0 +1,621 @@
+station_id,external_id,name,short_name,lat,lon,rental_methods/0,rental_methods/1,capacity,electric_bike_surcharge_waiver,eightd_has_key_dispenser,eightd_station_services/0/id,eightd_station_services/0/service_type,eightd_station_services/0/bikes_availability,eightd_station_services/0/docks_availability,eightd_station_services/0/name,eightd_station_services/0/description,eightd_station_services/0/schedule_description,eightd_station_services/0/link_for_more_info,has_kiosk
+25,0b100854-08f3-11e7-a1cb-3863bb33a4e4,de la Commune / Place Jacques-Cartier,6026,45.50761009451047,-73.55183601379395,CREDITCARD,KEY,89,false,false,9ea7549c-5b8f-4bd2-a2bb-d54c5b71f6e6,ATTENDED_SERVICE,LIMITED,LIMITED,Depot Station,,Saturday and Sunday from 11:00 AM to 19:00 PM,https://www.bixi.com/en/bixi-manulife-valets-2018-schedule,true
+1,0b0fda98-08f3-11e7-a1cb-3863bb33a4e4,Métro Champ-de-Mars (Viger / Sanguinet),6001,45.51035067563653,-73.55650842189789,CREDITCARD,KEY,33,false,false,,,,,,,,,true
+2,0b0fdf05-08f3-11e7-a1cb-3863bb33a4e4,Ste-Catherine / Dezery,6002,45.539385081961676,-73.54099988937377,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+3,0b0fe114-08f3-11e7-a1cb-3863bb33a4e4,Clark / Evans,6003,45.51100666600306,-73.56760203838348,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+4,0b0fe2b5-08f3-11e7-a1cb-3863bb33a4e4,du Champ-de-Mars / Gosford,6004,45.50965520472071,-73.55400860309601,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+5,0b0fe458-08f3-11e7-a1cb-3863bb33a4e4,Metcalfe / du Square-Dorchester,6005,45.500208064155046,-73.57113786041737,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+6,0b0fe5d0-08f3-11e7-a1cb-3863bb33a4e4,18e avenue / Rosemont,6006,45.55789545752947,-73.5765291005373,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+7,0b0fe76d-08f3-11e7-a1cb-3863bb33a4e4,de l'Hôtel-de-Ville / Ste-Catherine,6007,45.51166045593874,-73.56213569641113,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+8,0b0fe8e4-08f3-11e7-a1cb-3863bb33a4e4,Sanguinet / Ste-Catherine,6008,45.51279685582333,-73.56146247242577,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+9,0b0fea54-08f3-11e7-a1cb-3863bb33a4e4,Crescent / de Maisonneuve,6009,45.49811161443597,-73.57761539518833,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+10,0b0febc1-08f3-11e7-a1cb-3863bb33a4e4,Gare d'autocars de Montréal (Berri / Ontario),6901,45.51689676614314,-73.5639488697052,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+11,0b0ff3ef-08f3-11e7-a1cb-3863bb33a4e4,St-André / St-Antoine,6011,45.51411452790017,-73.55264469981194,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+12,0b0ff5fc-08f3-11e7-a1cb-3863bb33a4e4,Métro St-Laurent (de Maisonneuve / St-Laurent),6012,45.51066,-73.56497,CREDITCARD,KEY,49,false,false,,,,,,,,,true
+13,0b0ff798-08f3-11e7-a1cb-3863bb33a4e4,Sanguinet / de Maisonneuve,6013,45.51340553558378,-73.56259435415267,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+14,0b0ff906-08f3-11e7-a1cb-3863bb33a4e4,St-Denis / René-Lévesque,6014,45.51287121578035,-73.55846643447876,CREDITCARD,KEY,43,false,false,,,,,,,,,true
+15,0b0ffa68-08f3-11e7-a1cb-3863bb33a4e4,BAnQ (Berri / de Maisonneuve),6015,45.515299,-73.561273,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+16,0b0ffbbc-08f3-11e7-a1cb-3863bb33a4e4,Jacques-Le Ber / de la Pointe Nord,6016,45.472503,-73.539285,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+17,0b0ffd3a-08f3-11e7-a1cb-3863bb33a4e4,Atateken / du Square Amherst,6017,45.52063377251984,-73.56390595436096,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+18,0b0ffea2-08f3-11e7-a1cb-3863bb33a4e4,St-André / Ontario,6018,45.51889,-73.56353,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+19,0b100002-08f3-11e7-a1cb-3863bb33a4e4,Métro Sherbrooke (de Rigaud / Berri),6019,45.51799893773692,-73.56818407773972,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+20,0b100167-08f3-11e7-a1cb-3863bb33a4e4,Sanguinet / Ontario,6020,45.51476724402057,-73.56549113988876,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+21,0b1002d5-08f3-11e7-a1cb-3863bb33a4e4,Montcalm / Ontario,6902,45.521081043206834,-73.56227517127991,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+22,0b100442-08f3-11e7-a1cb-3863bb33a4e4,de la Commune / Berri,6023,45.51086,-73.54983,CREDITCARD,KEY,51,false,false,,,,,,,,,true
+23,0b1005a1-08f3-11e7-a1cb-3863bb33a4e4,Bellerive / Duchesneau,6024,45.60761595633475,-73.50982189178467,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+24,0b1006f9-08f3-11e7-a1cb-3863bb33a4e4,Notre-Dame / St-Gabriel,6025,45.50714391928411,-73.55511903762817,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+26,0b1009b3-08f3-11e7-a1cb-3863bb33a4e4,de Maisonneuve / Mansfield (sud),6027,45.502053864057466,-73.57346534729004,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+28,0b100caa-08f3-11e7-a1cb-3863bb33a4e4,Bourget / St-Jacques,6029,45.48084576334506,-73.58386158943176,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+30,0b100f80-08f3-11e7-a1cb-3863bb33a4e4,de Maisonneuve / Robert-Bourassa,6031,45.50426292830073,-73.57152342796326,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+31,0b1010e4-08f3-11e7-a1cb-3863bb33a4e4,Métro Place-d'Armes (Viger / St-Urbain),6032,45.50623,-73.55976,CREDITCARD,KEY,25,false,false,,,,,,,,,true
+32,0b10125a-08f3-11e7-a1cb-3863bb33a4e4,16e avenue / Beaubien,6033,45.55828063767652,-73.58315885066986,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+34,0b101537-08f3-11e7-a1cb-3863bb33a4e4,Viger / Chenneville,6035,45.50531166520915,-73.56089115142822,CREDITCARD,KEY,38,false,false,,,,,,,,,true
+35,0b101691-08f3-11e7-a1cb-3863bb33a4e4,de la Commune / St-Sulpice,6036,45.50424245563397,-73.553469479084,CREDITCARD,KEY,47,false,false,,,,,,,,,true
+36,0b1017ec-08f3-11e7-a1cb-3863bb33a4e4,St-Nicolas / Place d'Youville,6037,45.501966859101564,-73.55515256524086,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+37,0b101966-08f3-11e7-a1cb-3863bb33a4e4,McGill / Place d'Youville,6038,45.49975,-73.55566,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+38,0b101acc-08f3-11e7-a1cb-3863bb33a4e4,McGill / des Récollets,6039,45.500779,-73.558826,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+39,0b101c22-08f3-11e7-a1cb-3863bb33a4e4,St-Jacques / St-Pierre,6040,45.50278649802565,-73.55913430452347,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+40,0b101d77-08f3-11e7-a1cb-3863bb33a4e4,St-Jacques / McGill,6041,45.50144108135568,-73.56014415621758,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+41,0b101ed0-08f3-11e7-a1cb-3863bb33a4e4,de la Gauchetière / Robert-Bourassa,6042,45.50060578095098,-73.56544822454453,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+42,0b102046-08f3-11e7-a1cb-3863bb33a4e4,Square Victoria (Viger / du Square-Victoria),6043,45.50206,-73.56295,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+43,0b1021af-08f3-11e7-a1cb-3863bb33a4e4,Roy / St-André,6044,45.521564270906616,-73.57036739587784,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+45,0b10246c-08f3-11e7-a1cb-3863bb33a4e4,Métro Bonaventure (de la Gauchetière / de la Cathédrale),6046,45.49831217703312,-73.56725603342056,CREDITCARD,KEY,51,false,false,,,,,,,,,true
+46,0b1025c4-08f3-11e7-a1cb-3863bb33a4e4,Milton / Durocher,6204,45.508140959417744,-73.57492983341217,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+47,0b10272a-08f3-11e7-a1cb-3863bb33a4e4,William / St-Henri,6048,45.49891911390352,-73.55725407600403,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+48,0b102b66-08f3-11e7-a1cb-3863bb33a4e4,Queen / Wellington,6049,45.49760527699099,-73.55534970760345,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+49,0b102c87-08f3-11e7-a1cb-3863bb33a4e4,St-Maurice / Robert-Bourassa,6050,45.498577791020146,-73.56024205684662,CREDITCARD,KEY,43,false,false,,,,,,,,,true
+50,0b102d8f-08f3-11e7-a1cb-3863bb33a4e4,de Gaspé / Marmier,6051,45.529686,-73.601728,CREDITCARD,KEY,22,false,false,,,,,,,,,true
+51,0b102e96-08f3-11e7-a1cb-3863bb33a4e4,de la Commune / King,6052,45.49751503379366,-73.55257093906403,CREDITCARD,KEY,105,false,false,,,,,,,,,true
+52,0b102fb4-08f3-11e7-a1cb-3863bb33a4e4,du Président-Kennedy / Jeanne-Mance,6053,45.508204615051355,-73.56881439685822,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+55,0b10559b-08f3-11e7-a1cb-3863bb33a4e4,Peel / de la Gauchetiere,6057,45.4977183451679,-73.5681800544262,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+56,0b1056fb-08f3-11e7-a1cb-3863bb33a4e4,Cypress / Peel,6058,45.49932551028458,-73.57176750898361,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+57,0b10581e-08f3-11e7-a1cb-3863bb33a4e4,de la Cathédrale / René-Lévesque,6059,45.499191207076606,-73.56942057609558,CREDITCARD,KEY,55,false,false,,,,,,,,,true
+58,0b105944-08f3-11e7-a1cb-3863bb33a4e4,Belmont / Robert-Bourassa,6060,45.501366848348894,-73.56583714485167,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+59,0b105a5b-08f3-11e7-a1cb-3863bb33a4e4,Mansfield / Ste-Catherine,6061,45.501398709321506,-73.57178628444672,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+60,0b105b66-08f3-11e7-a1cb-3863bb33a4e4,Drummond / Ste-Catherine,6062,45.49863930330429,-73.57422709465027,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+61,0b105c6d-08f3-11e7-a1cb-3863bb33a4e4,Drummond / de Maisonneuve,6063,45.49947,-73.57591,CREDITCARD,KEY,43,false,false,,,,,,,,,true
+62,0b105d73-08f3-11e7-a1cb-3863bb33a4e4,Métro Peel (de Maisonneuve / Stanley),6064,45.50038,-73.57507,CREDITCARD,KEY,57,false,false,,,,,,,,,true
+63,0b105e8d-08f3-11e7-a1cb-3863bb33a4e4,de la Montagne / Sherbrooke,6065,45.499744750433784,-73.57903361320496,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+64,0b105f95-08f3-11e7-a1cb-3863bb33a4e4,Porte-de-Québec / St-Hubert,6067,45.51249475526989,-73.55087846517563,CREDITCARD,KEY,25,false,false,,,,,,,,,true
+65,0b10609d-08f3-11e7-a1cb-3863bb33a4e4,2e avenue / Jean-Rivard,6068,45.562509038048915,-73.61656039953232,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+67,0b1062ad-08f3-11e7-a1cb-3863bb33a4e4,Milton / University,6070,45.5064484,-73.57634872,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+68,0b1063c4-08f3-11e7-a1cb-3863bb33a4e4,de Maisonneuve / Aylmer (ouest),6073,45.50501,-73.57069,CREDITCARD,KEY,45,false,false,,,,,,,,,true
+69,0b1064d3-08f3-11e7-a1cb-3863bb33a4e4,de Ville-Marie / Ste-Catherine,6076,45.55792114867545,-73.52914720773697,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+71,0b10680e-08f3-11e7-a1cb-3863bb33a4e4,St-Alexandre / Ste-Catherine,6078,45.50538225593995,-73.56763422489166,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+72,0b106932-08f3-11e7-a1cb-3863bb33a4e4,Métro Vendôme (de Marlowe / de Maisonneuve),6080,45.47393028235147,-73.60473453998564,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+73,0b106b02-08f3-11e7-a1cb-3863bb33a4e4,Mackay / Ste-Catherine,6081,45.49570931691902,-73.5769522190094,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+74,0b106c33-08f3-11e7-a1cb-3863bb33a4e4,5e avenue / Rosemont,6082,45.54990048023633,-73.58308374881744,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+75,0b106d46-08f3-11e7-a1cb-3863bb33a4e4,Square Phillips,6083,45.50373771539475,-73.56810629367828,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+76,0b106e5d-08f3-11e7-a1cb-3863bb33a4e4,Duke / Brennan,6084,45.495581350533946,-73.55371087789534,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+77,0b106f9a-08f3-11e7-a1cb-3863bb33a4e4,Notre-Dame / Peel,6085,45.4952,-73.56328,CREDITCARD,KEY,51,false,false,,,,,,,,,true
+78,0b1070e3-08f3-11e7-a1cb-3863bb33a4e4,Henri-Julien / du Carmel,6089,45.527839413108,-73.59482109546661,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+79,0b107204-08f3-11e7-a1cb-3863bb33a4e4,Métro Lucien-L'Allier  (Lucien l'Allier / Argyle),6090,45.49487159597493,-73.57112377882004,CREDITCARD,KEY,17,false,false,,,,,,,,,true
+80,0b107323-08f3-11e7-a1cb-3863bb33a4e4,Joseph-Manseau / René-Lévesque,6091,45.491686521008035,-73.57676714658737,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+81,0b107432-08f3-11e7-a1cb-3863bb33a4e4,Crescent / Ste-Catherine,6092,45.497092016878234,-73.57554942369461,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+82,0b10753d-08f3-11e7-a1cb-3863bb33a4e4,Métro Beaubien (de Chateaubriand / Beaubien),6912,45.5353599615622,-73.60363483428955,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+83,0b10765d-08f3-11e7-a1cb-3863bb33a4e4,Métro Atwater (Atwater / Ste-Catherine),6194,45.48947622882084,-73.58456566929817,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+84,0b107771-08f3-11e7-a1cb-3863bb33a4e4,Chomedey / de Maisonneuve,6095,45.491800276787224,-73.58400642871855,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+85,0b10787d-08f3-11e7-a1cb-3863bb33a4e4,Lucien L'Allier / St-Jacques,6096,45.49356916133978,-73.56857568025589,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+86,0b107988-08f3-11e7-a1cb-3863bb33a4e4,Ste-Catherine / St-Marc,6097,45.492897397177465,-73.58029425144196,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+87,0b1081d2-08f3-11e7-a1cb-3863bb33a4e4,Bishop / Ste-Catherine,6098,45.496583295698706,-73.5765016078949,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+88,0b10834a-08f3-11e7-a1cb-3863bb33a4e4,Ste-Catherine / Labelle,6099,45.51506508398211,-73.55922952294348,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+89,0b108464-08f3-11e7-a1cb-3863bb33a4e4,Mackay / de Maisonneuve,6100,45.49659,-73.57851,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+90,0b108588-08f3-11e7-a1cb-3863bb33a4e4,Métro Villa-Maria (Décarie / de Monkland),6101,45.479483,-73.61979,CREDITCARD,KEY,17,false,false,,,,,,,,,true
+91,0b1086a7-08f3-11e7-a1cb-3863bb33a4e4,Lincoln / du Fort,6102,45.493034,-73.583836,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+92,0b1087c4-08f3-11e7-a1cb-3863bb33a4e4,du Havre / Hochelaga,6103,45.535753085274585,-73.55794072151183,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+93,0b1088f0-08f3-11e7-a1cb-3863bb33a4e4,Wolfe / René-Lévesque,6104,45.51681750463149,-73.5541883111,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+94,0b108a09-08f3-11e7-a1cb-3863bb33a4e4,Plessis / René-Lévesque,6105,45.51937252291976,-73.55195805430411,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+95,0b108b24-08f3-11e7-a1cb-3863bb33a4e4,Papineau / René-Lévesque,6106,45.52114,-73.54926,CREDITCARD,KEY,25,false,false,,,,,,,,,true
+96,0b1091b6-08f3-11e7-a1cb-3863bb33a4e4,St-Mathieu / Ste-Catherine,6107,45.49367956421703,-73.57914626598358,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+97,0b1093c6-08f3-11e7-a1cb-3863bb33a4e4,Logan / Fullum,6108,45.52836601591233,-73.55117082595825,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+98,0b1094fe-08f3-11e7-a1cb-3863bb33a4e4,Quai de la navette fluviale,6109,45.513741443172,-73.53838205337523,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+99,0b10961a-08f3-11e7-a1cb-3863bb33a4e4,Poupart / Ste-Catherine,6110,45.52900206660643,-73.54619935154915,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+100,0b10972e-08f3-11e7-a1cb-3863bb33a4e4,Parthenais / Ste-Catherine,6111,45.52600589494234,-73.54886412620544,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+101,0b10983d-08f3-11e7-a1cb-3863bb33a4e4,Montcalm / de Maisonneuve,6112,45.519139183741046,-73.55786561965942,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+102,0b10994d-08f3-11e7-a1cb-3863bb33a4e4,Alexandre-DeSève / Ste-Catherine,6113,45.52123044585842,-73.55386108160019,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+103,0b109fc4-08f3-11e7-a1cb-3863bb33a4e4,Métro Papineau (Cartier / Ste-Catherine),6114,45.52353,-73.55199,CREDITCARD,KEY,25,false,false,,,,,,,,,true
+104,0b10a104-08f3-11e7-a1cb-3863bb33a4e4,Benny / de Monkland,6115,45.46685123845205,-73.63162770867348,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+105,0b10c307-08f3-11e7-a1cb-3863bb33a4e4,Plessis / Ontario,6116,45.52349210923463,-73.56073021888733,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+106,0b10c45c-08f3-11e7-a1cb-3863bb33a4e4,de Maisonneuve / Aylmer (est),6117,45.50526304478131,-73.57048004865646,CREDITCARD,KEY,13,false,false,,,,,,,,,true
+107,0b10c672-08f3-11e7-a1cb-3863bb33a4e4,de Champlain / Ontario,6118,45.52510954917077,-73.56020584702492,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+108,0b10c7b5-08f3-11e7-a1cb-3863bb33a4e4,Ontario / de Lorimier,6119,45.52773089755533,-73.55753839015959,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+109,0b10ce21-08f3-11e7-a1cb-3863bb33a4e4,Métro Frontenac (Ontario / du Havre),6120,45.533705987798946,-73.55217933654784,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+110,0b10cf42-08f3-11e7-a1cb-3863bb33a4e4,du Havre / de Rouen,6121,45.53456256501449,-73.55478646466509,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+111,0b10d04a-08f3-11e7-a1cb-3863bb33a4e4,Logan / d'Iberville,6122,45.53057,-73.54913,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+112,0b10d150-08f3-11e7-a1cb-3863bb33a4e4,Alexandre-DeSève / la Fontaine,6123,45.52327641182773,-73.55821833014488,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+113,0b10d266-08f3-11e7-a1cb-3863bb33a4e4,Poupart / Ontario,6124,45.53193889278052,-73.55343863368034,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+114,0b10d370-08f3-11e7-a1cb-3863bb33a4e4,Ellendale / de la Côte-des-Neiges,6125,45.499757,-73.629298,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+115,0b10d842-08f3-11e7-a1cb-3863bb33a4e4,Fullum / de Rouen,6126,45.53213680524969,-73.55871319770813,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+116,0b10d956-08f3-11e7-a1cb-3863bb33a4e4,de Gaspé / Jean-Talon,6127,45.536582447959766,-73.61622512340546,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+117,0b10db49-08f3-11e7-a1cb-3863bb33a4e4,Hogan / Ontario,6128,45.535295480380306,-73.55116009712219,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+118,0b10dc80-08f3-11e7-a1cb-3863bb33a4e4,Sherbrooke / Frontenac,6130,45.5367,-73.56081,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+119,0b10dd95-08f3-11e7-a1cb-3863bb33a4e4,Fullum / Sherbrooke,6131,45.533924,-73.562425,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+120,0b10e3e7-08f3-11e7-a1cb-3863bb33a4e4,Chapleau / Terrasse Mercure,6133,45.53673838509649,-73.56516659259796,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+121,0b10e507-08f3-11e7-a1cb-3863bb33a4e4,de Bordeaux / Sherbrooke,6129,45.52997069129102,-73.56305301189423,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+122,0b10e60a-08f3-11e7-a1cb-3863bb33a4e4,Ste-Famille / Sherbrooke,6202,45.51007154847701,-73.57075229287146,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+123,0b10fc41-08f3-11e7-a1cb-3863bb33a4e4,University / Prince-Arthur,6047,45.507401678946415,-73.57844352722168,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+124,0b1102f9-08f3-11e7-a1cb-3863bb33a4e4,Hutchison / Prince-Arthur,6079,45.50975858607626,-73.57610732316971,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+125,0b110726-08f3-11e7-a1cb-3863bb33a4e4,William-Tremblay / Molson,6022,45.541719808901306,-73.56517732143402,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+126,0b1108eb-08f3-11e7-a1cb-3863bb33a4e4,Atwater / Sherbrooke,6093,45.4912258547597,-73.58763009309769,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+127,0b110a66-08f3-11e7-a1cb-3863bb33a4e4,Drolet / Beaubien,6913,45.533348,-73.605834,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+128,0b1111b6-08f3-11e7-a1cb-3863bb33a4e4,Alma / Beaubien,6915,45.53243586450861,-73.60665500164032,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+129,0b111347-08f3-11e7-a1cb-3863bb33a4e4,Parc du Pélican (2e avenue / St-Joseph),6916,45.544513,-73.571564,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+130,0b1115c4-08f3-11e7-a1cb-3863bb33a4e4,Garnier / des Carrières,6918,45.53755266430292,-73.58993947505951,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+131,0b111c93-08f3-11e7-a1cb-3863bb33a4e4,Marquette / Jean-Talon,6923,45.54740777921938,-73.60766887664795,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+132,0b111e08-08f3-11e7-a1cb-3863bb33a4e4,des Écores / Jean-Talon,6925,45.55236372328009,-73.60286772251129,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+133,0b111f7c-08f3-11e7-a1cb-3863bb33a4e4,Metcalfe / de Maisonneuve,6072,45.50171494932855,-73.57413053512573,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+134,0b1124b9-08f3-11e7-a1cb-3863bb33a4e4,University / des Pins,6075,45.50829509569767,-73.58064293861388,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+135,0b112724-08f3-11e7-a1cb-3863bb33a4e4,Bercy / Rachel,6134,45.53840340979245,-73.56196403503418,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+136,0b112dc7-08f3-11e7-a1cb-3863bb33a4e4,Larivière / de Lorimier,6132,45.5291345371163,-73.55923354625702,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+137,0b112f3f-08f3-11e7-a1cb-3863bb33a4e4,Métro Laurier (Rivard / Laurier),6136,45.52761627,-73.5891147,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+138,0b11347f-08f3-11e7-a1cb-3863bb33a4e4,Cartier / Gauthier,6137,45.53034708827074,-73.56698781251907,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+139,0b1135f2-08f3-11e7-a1cb-3863bb33a4e4,Gauthier / de Lorimier,6138,45.53167355364312,-73.56541335582732,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+140,0b113d5d-08f3-11e7-a1cb-3863bb33a4e4,Gauthier / Parthenais,6139,45.53292625574653,-73.56377989053726,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+141,0b1142a8-08f3-11e7-a1cb-3863bb33a4e4,Marquette / Rachel,6140,45.5298015824607,-73.5702896118164,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+142,0b1147d6-08f3-11e7-a1cb-3863bb33a4e4,des Érables / Rachel,6141,45.53354753725336,-73.5668671131134,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+143,0b114d1c-08f3-11e7-a1cb-3863bb33a4e4,Calixa-Lavallée / Rachel,6142,45.527794785525096,-73.57193917036057,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+144,0b115254-08f3-11e7-a1cb-3863bb33a4e4,Rachel / de Brébeuf,6143,45.52689,-73.57264,CREDITCARD,KEY,28,false,false,,,,,,,,,true
+145,0b1159ca-08f3-11e7-a1cb-3863bb33a4e4,du Parc-La Fontaine / Duluth,6145,45.52451761488783,-73.57197672128677,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+146,0b115f14-08f3-11e7-a1cb-3863bb33a4e4,du Parc-La Fontaine / Roy,6146,45.523170471388234,-73.56901288032532,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+147,0b116d41-08f3-11e7-a1cb-3863bb33a4e4,Calixa-Lavallée / Sherbrooke,6147,45.52479,-73.56545,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+148,0b116ed6-08f3-11e7-a1cb-3863bb33a4e4,Émile-Duployé / Sherbrooke,6148,45.52720058937288,-73.56472939252852,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+149,0b116ff4-08f3-11e7-a1cb-3863bb33a4e4,Chapleau / du Mont-Royal,6149,45.53867,-73.56936,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+150,0b117115-08f3-11e7-a1cb-3863bb33a4e4,Messier / du Mont-Royal,6150,45.53711414,-73.5710031,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+151,0b11945c-08f3-11e7-a1cb-3863bb33a4e4,Parthenais / du Mont-Royal,6151,45.53646917409483,-73.57146307826042,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+152,0b1195c7-08f3-11e7-a1cb-3863bb33a4e4,Chabot / du Mont-Royal,6152,45.53418509490266,-73.57358872890472,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+153,0b119728-08f3-11e7-a1cb-3863bb33a4e4,Cartier / Marie-Anne,6153,45.532674,-73.571776,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+154,0b1198eb-08f3-11e7-a1cb-3863bb33a4e4,Marquette / du Mont-Royal,6154,45.53229,-73.57544,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+155,0b119a5f-08f3-11e7-a1cb-3863bb33a4e4,Garnier / du Mont-Royal,6155,45.53092,-73.57674,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+156,0b119c87-08f3-11e7-a1cb-3863bb33a4e4,Marie-Anne / de la Roche,6156,45.52775814390426,-73.57618510723114,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+157,0b119e07-08f3-11e7-a1cb-3863bb33a4e4,de Brébeuf / du Mont-Royal,6157,45.52940777616881,-73.57815384864807,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+158,0b119f9b-08f3-11e7-a1cb-3863bb33a4e4,Gilford / de Brébeuf,6158,45.53081622781595,-73.58162596821785,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+159,0b11a121-08f3-11e7-a1cb-3863bb33a4e4,Ann / Wellington,6159,45.49452705626516,-73.55675250291823,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+160,0b11a316-08f3-11e7-a1cb-3863bb33a4e4,Garnier / St-Joseph,6160,45.5329774553515,-73.58122229576111,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+161,0b11a4af-08f3-11e7-a1cb-3863bb33a4e4,Cartier / St-Joseph,6161,45.53582823686429,-73.57869029045105,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+162,0b11a62f-08f3-11e7-a1cb-3863bb33a4e4,Legendre / Henri-Julien,6162,45.546123877081186,-73.64664673805237,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+163,0b11a7b6-08f3-11e7-a1cb-3863bb33a4e4,Marquette / Laurier,6163,45.53543,-73.5822,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+164,0b11a928-08f3-11e7-a1cb-3863bb33a4e4,de Lanaudière / Laurier,6164,45.5333136054992,-73.58373686671257,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+165,0b11aa95-08f3-11e7-a1cb-3863bb33a4e4,Laurier / de Brébeuf,6165,45.532513956311426,-73.58481109142303,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+166,0b11ac01-08f3-11e7-a1cb-3863bb33a4e4,Gerry-Boulet / St-Grégoire,6166,45.533735227540596,-73.589306473732,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+167,0b11ad6b-08f3-11e7-a1cb-3863bb33a4e4,Marquette / St-Grégoire,6167,45.53703,-73.58584,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+168,0b11aefa-08f3-11e7-a1cb-3863bb33a4e4,Marmier / St-Denis,6168,45.530871318676006,-73.59834551811218,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+169,0b11b06e-08f3-11e7-a1cb-3863bb33a4e4,Boyer / du Mont-Royal,6169,45.527432126380575,-73.57991673052311,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+170,0b11b1dc-08f3-11e7-a1cb-3863bb33a4e4,de Mentana / Laurier,6170,45.53045006508681,-73.58763813972473,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+171,0b11b34d-08f3-11e7-a1cb-3863bb33a4e4,Wolfe / Robin,6171,45.51958082831579,-73.5601159930229,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+173,0b11b660-08f3-11e7-a1cb-3863bb33a4e4,Berri / Cherrier,6173,45.51908844137639,-73.56950908899307,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+174,0b11b7e0-08f3-11e7-a1cb-3863bb33a4e4,Roy / St-Denis,6174,45.51908,-73.5727,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+175,0b11b958-08f3-11e7-a1cb-3863bb33a4e4,St-Christophe / Cherrier,6175,45.52027785033668,-73.5682162642479,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+176,0b11bac8-08f3-11e7-a1cb-3863bb33a4e4,de Mentana / Rachel,6176,45.524963239803235,-73.57555881142616,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+177,0b11bc2e-08f3-11e7-a1cb-3863bb33a4e4,St-Hubert / Duluth,6177,45.522425652788634,-73.57418417930603,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+178,0b11bd99-08f3-11e7-a1cb-3863bb33a4e4,Rivard / Rachel,6178,45.5222776,-73.5775906,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+179,0b11bf22-08f3-11e7-a1cb-3863bb33a4e4,Duluth / St-Denis,6179,45.52060423232697,-73.57598394155502,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+180,0b11c18a-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / René-Lévesque,6180,45.509418366717604,-73.56135785579681,CREDITCARD,KEY,21,false,false,,,,,,,,,true
+181,0b11c320-08f3-11e7-a1cb-3863bb33a4e4,Clark / Rachel,6181,45.5173538,-73.58212888,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+182,0b11c48f-08f3-11e7-a1cb-3863bb33a4e4,de Bullion / du Mont-Royal,6182,45.52175120848515,-73.58526840806007,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+183,0b11c5fc-08f3-11e7-a1cb-3863bb33a4e4,Laval / du Mont-Royal,6183,45.5223645775784,-73.58414590358734,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+184,0b11c779-08f3-11e7-a1cb-3863bb33a4e4,Métro Mont-Royal (Rivard / du Mont-Royal),6184,45.524673,-73.58255,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+185,0b11c8fa-08f3-11e7-a1cb-3863bb33a4e4,des Érables / Bélanger,6185,45.54912085535069,-73.60087350010872,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+186,0b11ca72-08f3-11e7-a1cb-3863bb33a4e4,St-Hubert / Laurier,6186,45.52931012171625,-73.58865737915039,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+187,0b11cbe1-08f3-11e7-a1cb-3863bb33a4e4,Resther / du Mont-Royal,6187,45.52562819123256,-73.58177483081818,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+188,0b11cd56-08f3-11e7-a1cb-3863bb33a4e4,de Mentana / Marie-Anne,6188,45.526026565221414,-73.57785880565643,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+189,0b11ced7-08f3-11e7-a1cb-3863bb33a4e4,Chabot / Everett,6189,45.55072306022627,-73.60957056283951,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+190,0b11d04c-08f3-11e7-a1cb-3863bb33a4e4,Pontiac / Gilford,6190,45.527009334270645,-73.58576595783234,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+191,0b11d1b6-08f3-11e7-a1cb-3863bb33a4e4,St-Zotique / Clark,6191,45.531401,-73.612674,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+192,0b11d31d-08f3-11e7-a1cb-3863bb33a4e4,Berri / St-Grégoire,6192,45.52996959525513,-73.5919028520584,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+193,0b11d48b-08f3-11e7-a1cb-3863bb33a4e4,de l'Esplanade / Fairmount,6193,45.521495,-73.596758,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+194,0b11d60b-08f3-11e7-a1cb-3863bb33a4e4,de Gaspé / Fairmount,6094,45.52564776553033,-73.5929274559021,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+195,0b11d77c-08f3-11e7-a1cb-3863bb33a4e4,de Bullion / St-Joseph,6195,45.5240365462478,-73.59014332294464,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+196,0b11d8f6-08f3-11e7-a1cb-3863bb33a4e4,Villeneuve / St-Laurent,6196,45.52134173413233,-73.58941912651062,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+197,0b11da63-08f3-11e7-a1cb-3863bb33a4e4,de Bordeaux / Masson,6197,45.53898439552301,-73.5824453830719,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+198,0b11dbd1-08f3-11e7-a1cb-3863bb33a4e4,Hélène-Baillargeon / St-Denis,6198,45.52974,-73.59527,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+199,0b11dd51-08f3-11e7-a1cb-3863bb33a4e4,St-Viateur / St-Laurent,6199,45.52593073022709,-73.59883904457092,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+200,0b11dec0-08f3-11e7-a1cb-3863bb33a4e4,Maguire / St-Laurent,6200,45.524628485592636,-73.5958108305931,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+201,0b11dfdd-08f3-11e7-a1cb-3863bb33a4e4,Villeneuve / de l'Hôtel-de-Ville,6201,45.52354419830203,-73.58733236789703,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+202,0b12034a-08f3-11e7-a1cb-3863bb33a4e4,Aylmer / Sherbrooke,6203,45.50658668914343,-73.57329905033112,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+203,0b1204af-08f3-11e7-a1cb-3863bb33a4e4,Milton / du Parc,6205,45.50936142835129,-73.57386365532875,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+204,0b1205e1-08f3-11e7-a1cb-3863bb33a4e4,Prince-Arthur / du Parc,6206,45.51059,-73.57547,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+205,0b1206fe-08f3-11e7-a1cb-3863bb33a4e4,Ste-Famille / des Pins,6207,45.51283174510449,-73.57688784599304,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+206,0b120816-08f3-11e7-a1cb-3863bb33a4e4,Hutchison / des Pins,6208,45.51069,-73.57805,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+207,0b12092a-08f3-11e7-a1cb-3863bb33a4e4,Milton / Clark,6209,45.51254135285248,-73.57067719101906,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+208,0b120a4a-08f3-11e7-a1cb-3863bb33a4e4,Métro Sauvé (Berri / Sauvé),6210,45.550692068419764,-73.65636706352234,CREDITCARD,KEY,26,false,false,,,,,,,,,true
+209,0b120b73-08f3-11e7-a1cb-3863bb33a4e4,Roy / St-Laurent,6211,45.515616239398405,-73.57580825686453,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+210,0b120c8a-08f3-11e7-a1cb-3863bb33a4e4,Duluth / de l'Esplanade,6212,45.51509198406273,-73.58114182949066,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+211,0b120d99-08f3-11e7-a1cb-3863bb33a4e4,Duluth / St-Laurent,6213,45.51687640567004,-73.57946008443832,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+212,0b120eaa-08f3-11e7-a1cb-3863bb33a4e4,Square St-Louis (du Square St-Louis / Laval),6214,45.516090801970655,-73.5701286792755,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+213,0b120fbf-08f3-11e7-a1cb-3863bb33a4e4,Metcalfe / St-Catherine,6215,45.50083231626815,-73.57245951890945,CREDITCARD,KEY,43,false,false,,,,,,,,,true
+214,0b1210e1-08f3-11e7-a1cb-3863bb33a4e4,Parc Jeanne Mance (monument sir George-Etienne Cartier),6216,45.514839858968934,-73.58477890491486,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+215,0b1211fb-08f3-11e7-a1cb-3863bb33a4e4,Vallières / St-Laurent,6217,45.518967223320054,-73.5836161673069,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+216,0b12130a-08f3-11e7-a1cb-3863bb33a4e4,de l'Hôtel-de-Ville / Roy,6219,45.51740076184449,-73.57460528612137,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+217,0b12141b-08f3-11e7-a1cb-3863bb33a4e4,Laval / Duluth,6220,45.519216236873945,-73.57718020677567,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+218,0b121524-08f3-11e7-a1cb-3863bb33a4e4,du Mont-Royal / Clark,6221,45.51941,-73.58685,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+219,0b12164d-08f3-11e7-a1cb-3863bb33a4e4,de l'Esplanade / du Mont-Royal,6222,45.51825290855221,-73.5883381962776,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+220,0b12176d-08f3-11e7-a1cb-3863bb33a4e4,du Mont-Royal / du Parc,6223,45.517,-73.589,CREDITCARD,KEY,33,false,false,,,,,,,,,true
+221,0b121880-08f3-11e7-a1cb-3863bb33a4e4,Villeneuve / du Parc,6224,45.51829,-73.59235,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+222,0b121993-08f3-11e7-a1cb-3863bb33a4e4,Villeneuve / St-Urbain,6225,45.520188,-73.590559,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+223,0b121aa3-08f3-11e7-a1cb-3863bb33a4e4,Hôpital Maisonneuve-Rosemont (Rosemont / Chatelain),6226,45.575707,-73.561562,CREDITCARD,KEY,65,false,false,,,,,,,,,true
+224,0b121bcd-08f3-11e7-a1cb-3863bb33a4e4,de l'Esplanade / Laurier,6227,45.521038857321265,-73.59490692615509,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+225,0b121ce9-08f3-11e7-a1cb-3863bb33a4e4,Coloniale / du Mont-Royal,6229,45.5211613236904,-73.5856157541275,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+226,0b121dff-08f3-11e7-a1cb-3863bb33a4e4,Waverly / St-Viateur,6230,45.5238561444472,-73.60012650489807,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+227,0b121f07-08f3-11e7-a1cb-3863bb33a4e4,Jeanne-Mance / St-Viateur,6231,45.523026476635074,-73.60184043645859,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+228,0b122017-08f3-11e7-a1cb-3863bb33a4e4,de l'Arcade / Clark,6234,45.527410360532215,-73.60393524169922,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+229,0b12214a-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / St-Viateur,6235,45.52655700191558,-73.5982757806778,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+230,0b122287-08f3-11e7-a1cb-3863bb33a4e4,Laurier / de Bordeaux,6236,45.5376492623372,-73.57978463172913,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+232,0b1224c3-08f3-11e7-a1cb-3863bb33a4e4,Gilford / de Lanaudière,6237,45.53200800170645,-73.58044445514679,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+233,0b1225d9-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / Napoléon,6903,45.51666442219882,-73.57722043991089,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+234,0b1226f9-08f3-11e7-a1cb-3863bb33a4e4,de Bordeaux / Jean-Talon,6924,45.54975479298636,-73.60556602478027,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+236,0b122929-08f3-11e7-a1cb-3863bb33a4e4,Parc Kent (de Kent / Hudson),6240,45.5057209331225,-73.62945914268494,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+237,0b122a41-08f3-11e7-a1cb-3863bb33a4e4,Querbes / Laurier,6241,45.51753998795678,-73.59783187508583,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+239,0b12331d-08f3-11e7-a1cb-3863bb33a4e4,Bloomfield / Bernard,6243,45.52068774,-73.6084279,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+241,0b1235a6-08f3-11e7-a1cb-3863bb33a4e4,Bloomfield / Van Horne,6245,45.5225858,-73.61265779,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+242,0b1236ca-08f3-11e7-a1cb-3863bb33a4e4,Métro Outremont (Wiseman / Van Horne),6246,45.52027053865367,-73.61484915018082,CREDITCARD,KEY,20,false,false,,,,,,,,,true
+243,0b1237e6-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / St-Zotique,6247,45.53226461018495,-73.6110632121563,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+244,0b1238fe-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / Rachel,6248,45.518593,-73.581566,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+245,0b123a23-08f3-11e7-a1cb-3863bb33a4e4,Bélanger / St-Denis,6249,45.53696,-73.61199,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+246,0b123b3e-08f3-11e7-a1cb-3863bb33a4e4,Marché Jean-Talon (Henri-Julien / Jean-Talon),6250,45.53678525128436,-73.6148879583925,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+247,0b124281-08f3-11e7-a1cb-3863bb33a4e4,Dante / de Gaspé,6251,45.534414933376276,-73.6123164743185,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+248,0b1243b5-08f3-11e7-a1cb-3863bb33a4e4,Mozart / St-Laurent,6252,45.53318,-73.61544,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+249,0b1245b9-08f3-11e7-a1cb-3863bb33a4e4,Métro Jean-Talon (de Chateaubriand / Jean-Talon),6253,45.540138286478616,-73.61402839422226,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+250,0b1246fa-08f3-11e7-a1cb-3863bb33a4e4,Boyer / Bélanger,6254,45.54006,-73.60897,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+251,0b124818-08f3-11e7-a1cb-3863bb33a4e4,Boyer / St-Zotique,6255,45.53848,-73.60556,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+253,0b12737b-08f3-11e7-a1cb-3863bb33a4e4,de St-Vallier / St-Zotique,6257,45.536261178519666,-73.60754549503326,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+254,0b127e6d-08f3-11e7-a1cb-3863bb33a4e4,Parc Père-Marquette (Chambord / Rosemont),6258,45.537087833013324,-73.59321847558022,CREDITCARD,KEY,47,false,false,,,,,,,,,true
+255,0b128037-08f3-11e7-a1cb-3863bb33a4e4,Dandurand / de Lorimier,6259,45.540881,-73.584157,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+256,0b12a453-08f3-11e7-a1cb-3863bb33a4e4,Cartier / Dandurand,6260,45.53923559055867,-73.58594566583633,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+257,0b12a5db-08f3-11e7-a1cb-3863bb33a4e4,Louis-Hémon / Rosemont,6261,45.54459855947176,-73.58822286128998,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+258,0b12a710-08f3-11e7-a1cb-3863bb33a4e4,de la Roche /  de Bellechasse,6262,45.537159225331315,-73.59747648239136,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+259,0b12a953-08f3-11e7-a1cb-3863bb33a4e4,de Hampton / de Monkland,6263,45.47117930747152,-73.6270022392273,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+260,0b12b053-08f3-11e7-a1cb-3863bb33a4e4,Chabot / de Bellechasse,6264,45.5425697477813,-73.59214425086974,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+261,0b12b18b-08f3-11e7-a1cb-3863bb33a4e4,Parthenais / Laurier,6265,45.539258526059406,-73.5774591565132,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+262,0b12b2a7-08f3-11e7-a1cb-3863bb33a4e4,Louis-Hébert / de Bellechasse,6266,45.546661109634606,-73.58868420124054,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+263,0b12b3bf-08f3-11e7-a1cb-3863bb33a4e4,Chabot / Beaubien,6267,45.544375546398065,-73.59564453363419,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+264,0b12b4d7-08f3-11e7-a1cb-3863bb33a4e4,Chambord / Beaubien,6268,45.539932183126695,-73.59934329986572,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+265,0b12ba05-08f3-11e7-a1cb-3863bb33a4e4,Wurtele / de Rouen,6269,45.537627813487596,-73.5533943772316,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+266,0b12bb31-08f3-11e7-a1cb-3863bb33a4e4,Fabre / St-Zotique,6270,45.54345172630376,-73.60101029276848,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+267,0b12bc3e-08f3-11e7-a1cb-3863bb33a4e4,St-Jean-Baptiste / Notre-Dame,6271,45.640002860465096,-73.49011301994324,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+268,0b12bd4f-08f3-11e7-a1cb-3863bb33a4e4,de Bordeaux / St-Zotique,6272,45.546539011777845,-73.59866470098495,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+269,0b12d1d7-08f3-11e7-a1cb-3863bb33a4e4,Cartier / Bélanger,6273,45.546797412794085,-73.60266387462616,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+270,0b12dba6-08f3-11e7-a1cb-3863bb33a4e4,de la Roche / St-Joseph,6274,45.531164,-73.583695,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+271,0b12ddaa-08f3-11e7-a1cb-3863bb33a4e4,Chambord / Jean-Talon,6275,45.54484558108033,-73.61053615808486,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+272,0b12df39-08f3-11e7-a1cb-3863bb33a4e4,de la Roche / Bélanger,6276,45.541669595766315,-73.60760450363159,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+273,0b12e0b4-08f3-11e7-a1cb-3863bb33a4e4,Louis-Hébert / St-Zotique,6278,45.55001,-73.59576,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+274,0b12e8f4-08f3-11e7-a1cb-3863bb33a4e4,Louis-Hébert / Bélanger,6279,45.55158518908433,-73.59916493296623,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+275,0b12ea9e-08f3-11e7-a1cb-3863bb33a4e4,Fabre / Beaubien,6904,45.5420595590383,-73.59787344932556,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+276,0b12ec0c-08f3-11e7-a1cb-3863bb33a4e4,Parc Rosemont (Dandurand / d'Iberville),6905,45.544377,-73.581018,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+277,0b12f18a-08f3-11e7-a1cb-3863bb33a4e4,Métro Rosemont (de St-Vallier / Rosemont),6906,45.5319548635849,-73.59816044569016,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+278,0b12f313-08f3-11e7-a1cb-3863bb33a4e4,Boyer / Rosemont,6907,45.534136,-73.595478,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+279,0b12f598-08f3-11e7-a1cb-3863bb33a4e4,de Bellechasse / de St-Vallier,6908,45.53341043363302,-73.60112428665161,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+280,0b12fca5-08f3-11e7-a1cb-3863bb33a4e4,Augustin-Cantin / Shearer,6921,45.48401829,-73.5634366,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+281,0b12fe33-08f3-11e7-a1cb-3863bb33a4e4,Marie-Anne / St-Hubert,6926,45.5246829812827,-73.5788968205452,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+282,0b1303b8-08f3-11e7-a1cb-3863bb33a4e4,Édouard-Montpetit / de Stirling,6927,45.50723,-73.615085,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+283,0b130533-08f3-11e7-a1cb-3863bb33a4e4,Jean-Brillant / McKenna,6928,45.49876714523858,-73.61886978149414,CREDITCARD,KEY,22,false,false,,,,,,,,,true
+284,0b130cda-08f3-11e7-a1cb-3863bb33a4e4,Waverly / Van Horne,6228,45.527363,-73.607723,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+285,0b130e78-08f3-11e7-a1cb-3863bb33a4e4,Durocher / Van Horne,6232,45.524265806034656,-73.61127376556396,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+286,0b1313e0-08f3-11e7-a1cb-3863bb33a4e4,Bernard / Jeanne-Mance,6233,45.5242864769531,-73.60497325658798,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+287,0b131556-08f3-11e7-a1cb-3863bb33a4e4,Basile-Routhier / Chabanel,6917,45.549868431421636,-73.64765658974648,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+288,0b131aab-08f3-11e7-a1cb-3863bb33a4e4,Bibliothèque de Rosemont (9e avenue / Rosemont),6919,45.55201648333515,-73.58185529708862,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+289,0b132264-08f3-11e7-a1cb-3863bb33a4e4,Boyer / Beaubien,6910,45.537041,-73.602026,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+290,0b1327e4-08f3-11e7-a1cb-3863bb33a4e4,Basin / du Séminaire,6086,45.490452428547556,-73.56017231941223,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+291,0b132d5a-08f3-11e7-a1cb-3863bb33a4e4,Notre-Dame / de la Montagne,6087,45.49302901258371,-73.56481790542603,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+292,0b1332b8-08f3-11e7-a1cb-3863bb33a4e4,Richmond / Notre-Dame,6088,45.4891601257399,-73.56777101755141,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+293,0b133810-08f3-11e7-a1cb-3863bb33a4e4,Louis-Hébert / Beaubien,6277,45.5481863712796,-73.592010140419,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+294,0b13441f-08f3-11e7-a1cb-3863bb33a4e4,Casgrain / Laurier,6280,45.52437479806464,-73.5918103158474,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+297,0b13704c-08f3-11e7-a1cb-3863bb33a4e4,Métro Charlevoix (Centre / Charlevoix),10002,45.47822787309145,-73.56965124607086,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+301,0b13760f-08f3-11e7-a1cb-3863bb33a4e4,des Seigneurs / Notre-Dame,6401,45.48772278774177,-73.5690826177597,CREDITCARD,KEY,22,false,false,,,,,,,,,true
+302,0b1377cc-08f3-11e7-a1cb-3863bb33a4e4,Ste-Émilie / Sir-Georges-Etienne-Cartier,6402,45.47266800851548,-73.585389778018,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+303,0b137906-08f3-11e7-a1cb-3863bb33a4e4,Georges-Vanier / Notre-Dame,6403,45.485047979822774,-73.5719633102417,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+304,0b137a21-08f3-11e7-a1cb-3863bb33a4e4,Quesnel / Vinet,6404,45.485889,-73.577514,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+305,0b137b3e-08f3-11e7-a1cb-3863bb33a4e4,Duvernay / Charlevoix,6405,45.4820980397155,-73.57487618923187,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+306,0b137c76-08f3-11e7-a1cb-3863bb33a4e4,Marché Atwater,6406,45.48020822800015,-73.57759863138199,CREDITCARD,KEY,33,false,false,,,,,,,,,true
+307,0b137d98-08f3-11e7-a1cb-3863bb33a4e4,Charlevoix / Lionel-Groulx,6407,45.48392802,-73.57731164,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+308,0b137ecc-08f3-11e7-a1cb-3863bb33a4e4,Métro Georges-Vanier (St-Antoine / Canning),6408,45.4891,-73.57656,CREDITCARD,KEY,17,false,false,,,,,,,,,true
+309,0b138096-08f3-11e7-a1cb-3863bb33a4e4,Laval / Rachel,6307,45.52017845247635,-73.57942387461662,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+311,0b138575-08f3-11e7-a1cb-3863bb33a4e4,4e avenue / de Verdun,6309,45.4568844514464,-73.57260704040527,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+312,0b138723-08f3-11e7-a1cb-3863bb33a4e4,de Soissons / de Darlington,6310,45.50687644639119,-73.62359181046486,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+313,0b1388ac-08f3-11e7-a1cb-3863bb33a4e4,Palm / St-Remi,6313,45.470303,-73.589848,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+314,0b138a2d-08f3-11e7-a1cb-3863bb33a4e4,de Kent / de la Côte-des-Neiges,6312,45.50144933057703,-73.63305062055588,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+315,0b138bbc-08f3-11e7-a1cb-3863bb33a4e4,Drolet / St-Zotique,6311,45.53488214147823,-73.60941231250763,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+316,0b138d55-08f3-11e7-a1cb-3863bb33a4e4,de Lanaudière / Marie-Anne,6314,45.52932643090091,-73.57480645179749,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+317,0b138ee2-08f3-11e7-a1cb-3863bb33a4e4,Métro Côte-des-Neiges (Jean-Brillant / de la Côte-des-Neiges),6315,45.49626477461565,-73.62154394388199,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+318,0b139069-08f3-11e7-a1cb-3863bb33a4e4,Swail / Decelles,6316,45.49705494399436,-73.61865252256392,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+319,0b1391e8-08f3-11e7-a1cb-3863bb33a4e4,Bourbonnière / du Mont-Royal,6383,45.55357073967113,-73.56049418449402,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+320,0b139367-08f3-11e7-a1cb-3863bb33a4e4,de Bordeaux / Gilford,6385,45.53611005443118,-73.5762870311737,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+321,0b1394fa-08f3-11e7-a1cb-3863bb33a4e4,Métro Préfontaine (Moreau / Hochelaga),6386,45.54178033474308,-73.55571448802948,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+322,0b139684-08f3-11e7-a1cb-3863bb33a4e4,Métro Joliette  (Joliette / Hochelaga),6387,45.54690718297082,-73.5515570640564,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+323,0b139808-08f3-11e7-a1cb-3863bb33a4e4,d'Orléans / Hochelaga,6388,45.55076798270114,-73.54942739009857,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+324,0b139985-08f3-11e7-a1cb-3863bb33a4e4,Boyer / Jean-Talon,6389,45.54158631132448,-73.61248075962067,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+325,0b139b11-08f3-11e7-a1cb-3863bb33a4e4,Aylwin / Ontario,6391,45.544284173851494,-73.54533970355988,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+327,0b139e39-08f3-11e7-a1cb-3863bb33a4e4,Dézéry / Ontario,6393,45.54111008519643,-73.54754984378815,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+328,0b139fbc-08f3-11e7-a1cb-3863bb33a4e4,Valois / Ontario,6394,45.54740496161695,-73.54467451572418,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+329,0b13a130-08f3-11e7-a1cb-3863bb33a4e4,Métro Viau (Pierre-de-Coubertin / Viau),6395,45.561782815423854,-73.54661107063293,CREDITCARD,KEY,51,false,false,,,,,,,,,true
+330,0b13a2b3-08f3-11e7-a1cb-3863bb33a4e4,Marché Maisonneuve,6397,45.55321884238814,-73.53978216648102,CREDITCARD,KEY,22,false,false,,,,,,,,,true
+331,0b13a43a-08f3-11e7-a1cb-3863bb33a4e4,Desjardins / Ontario,6398,45.5511918874866,-73.54087248444557,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+332,0b13a5e0-08f3-11e7-a1cb-3863bb33a4e4,Guizot / St-Laurent,6323,45.53966322230556,-73.63447487354279,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+333,0b13a766-08f3-11e7-a1cb-3863bb33a4e4,Drolet / Faillon,6327,45.53926979810152,-73.6208787560463,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+334,0b13a8ed-08f3-11e7-a1cb-3863bb33a4e4,Drolet / Gounod,6329,45.54095134225734,-73.62637460231781,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+335,0b13aa6c-08f3-11e7-a1cb-3863bb33a4e4,de Gaspé / Jarry,6330,45.540780049797995,-73.63040059804916,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+336,0b13abee-08f3-11e7-a1cb-3863bb33a4e4,Guizot / St-Denis,6331,45.543423548290185,-73.63246187567711,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+337,0b13ad79-08f3-11e7-a1cb-3863bb33a4e4,de Gaspé / de Liège,6332,45.54248521237199,-73.63634169101715,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+338,0b13aefa-08f3-11e7-a1cb-3863bb33a4e4,Leman / de Chateaubriand,6333,45.547218,-73.631103,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+339,0b13b075-08f3-11e7-a1cb-3863bb33a4e4,Métro Jarry (Lajeunesse / Jarry),6334,45.54371190262865,-73.62828433513641,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+340,0b13b1f1-08f3-11e7-a1cb-3863bb33a4e4,du Rosaire / St-Hubert,6335,45.54481928225348,-73.6215104162693,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+341,0b13b367-08f3-11e7-a1cb-3863bb33a4e4,Faillon / St-Hubert,6336,45.54297175887712,-73.61793905496597,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+342,0b13b4f3-08f3-11e7-a1cb-3863bb33a4e4,de Chateaubriand / Jarry,6338,45.54595481682399,-73.62699151039122,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+343,0b13dbf6-08f3-11e7-a1cb-3863bb33a4e4,Harvard / de Monkland,6339,45.474565185029945,-73.62403571605682,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+344,0b13dddb-08f3-11e7-a1cb-3863bb33a4e4,de la Roche / Everett,6340,45.544867,-73.614841,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+345,0b13df6a-08f3-11e7-a1cb-3863bb33a4e4,Regina / de Verdun,6341,45.467369,-73.570769,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+346,0b13e0f4-08f3-11e7-a1cb-3863bb33a4e4,Marquette / Villeray,6343,45.55068361610596,-73.61529305577278,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+347,0b13e231-08f3-11e7-a1cb-3863bb33a4e4,Louis-Hémon / Villeray,6345,45.55496126357668,-73.61073732376097,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+348,0b13e34c-08f3-11e7-a1cb-3863bb33a4e4,Nicolet / Sherbrooke,6346,45.54969542033443,-73.55464696884155,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+349,0b13e473-08f3-11e7-a1cb-3863bb33a4e4,Métro St-Michel (Shaughnessy / St-Michel),6347,45.559199,-73.599658,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+350,0b13e590-08f3-11e7-a1cb-3863bb33a4e4,Ryde / Charlevoix,6349,45.4757434,-73.5646007,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+351,0b13e6a8-08f3-11e7-a1cb-3863bb33a4e4,Island / Centre,6350,45.48149081388884,-73.56475353240967,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+355,0b13eb2d-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / Gounod,6322,45.538737949470644,-73.62802147865295,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+356,0b13ec45-08f3-11e7-a1cb-3863bb33a4e4,de Liège / Lajeunesse,6324,45.545603545552744,-73.63474041223526,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+357,0b13ed65-08f3-11e7-a1cb-3863bb33a4e4,De Gaspé / Villeray,6328,45.53893805473212,-73.62429320812224,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+358,0b13ee9f-08f3-11e7-a1cb-3863bb33a4e4,Marcil / Sherbrooke,6354,45.471743,-73.613924,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+359,0b13efbf-08f3-11e7-a1cb-3863bb33a4e4,Ontario / Sicard,6355,45.55626186680846,-73.53744059801102,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+360,0b13f0dd-08f3-11e7-a1cb-3863bb33a4e4,de Monkland / Girouard,6356,45.47710675189806,-73.6214379966259,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+361,0b13f1f3-08f3-11e7-a1cb-3863bb33a4e4,13e avenue / St-Zotique,6357,45.557487317400046,-73.5887485742569,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+362,0b13f308-08f3-11e7-a1cb-3863bb33a4e4,1ère  avenue / St-Zotique,6358,45.551937362101,-73.59392791986465,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+363,0b13f435-08f3-11e7-a1cb-3863bb33a4e4,Ste-Catherine / St-Laurent,6359,45.50981336049594,-73.5638952255249,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+364,0b13f555-08f3-11e7-a1cb-3863bb33a4e4,8e avenue / Beaubien,6360,45.553215,-73.58752,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+365,0b13f670-08f3-11e7-a1cb-3863bb33a4e4,Molson / Beaubien,6361,45.54968589617967,-73.59115451574326,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+366,0b13f78c-08f3-11e7-a1cb-3863bb33a4e4,1ère avenue / Rosemont,6362,45.54779995287998,-73.58486741781235,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+367,0b13f8a4-08f3-11e7-a1cb-3863bb33a4e4,de la Côte St-Antoine / Royal,6363,45.468926984877434,-73.6198702454567,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+368,0b13f9ce-08f3-11e7-a1cb-3863bb33a4e4,de Chambly / Rachel,6364,45.54991069359101,-73.55826258659361,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+370,0b13fc0b-08f3-11e7-a1cb-3863bb33a4e4,Wilderton  / Van Horne,6366,45.51014162409143,-73.6247518658638,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+371,0b13fd21-08f3-11e7-a1cb-3863bb33a4e4,3e avenue / Dandurand,6367,45.547294918516386,-73.57899874448776,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+372,0b13fe3c-08f3-11e7-a1cb-3863bb33a4e4,10e avenue / Masson,6368,45.55030553030546,-73.57335269451141,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+373,0b13ff69-08f3-11e7-a1cb-3863bb33a4e4,U. Concordia - Campus Loyola (Sherbrooke / West Broadway),6369,45.45750908083069,-73.6394852399826,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+374,0b140084-08f3-11e7-a1cb-3863bb33a4e4,d'Orléans / Masson,6370,45.557192,-73.569847,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+375,0b14019f-08f3-11e7-a1cb-3863bb33a4e4,4e avenue / Masson,6371,45.546978,-73.575515,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+376,0b1402b1-08f3-11e7-a1cb-3863bb33a4e4,1ère avenue / Masson,6372,45.5451997,-73.57645065,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+377,0b1403c7-08f3-11e7-a1cb-3863bb33a4e4,7e avenue / St-Joseph Rosemont,6373,45.547226645250745,-73.56986984610558,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+378,0b1404ef-08f3-11e7-a1cb-3863bb33a4e4,15e avenue / Masson,6374,45.55389801568004,-73.5713866353035,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+379,0b14060a-08f3-11e7-a1cb-3863bb33a4e4,Métro Place St-Henri (St-Ferdinand / St-Jacques),6375,45.477249,-73.587238,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+380,0b14073a-08f3-11e7-a1cb-3863bb33a4e4,de Chambly / St-Joseph,6376,45.552842358447656,-73.56529533863068,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+381,0b140857-08f3-11e7-a1cb-3863bb33a4e4,Grand Trunk / Hibernia,6377,45.47968,-73.56385,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+383,0b140aa8-08f3-11e7-a1cb-3863bb33a4e4,de l'Église / Bannantyne,6379,45.4632535358533,-73.57587933540344,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+384,0b140bd0-08f3-11e7-a1cb-3863bb33a4e4,Parc J.-Arthur-Champagne (de Chambly / du Mont-Royal),6380,45.551584,-73.561916,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+385,0b141134-08f3-11e7-a1cb-3863bb33a4e4,Omer-Lavallée / du Midway,6381,45.5457759528664,-73.56217458844185,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+387,0b141431-08f3-11e7-a1cb-3863bb33a4e4,Darling / Sherbrooke,6384,45.54545890380305,-73.55666935443878,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+388,0b141591-08f3-11e7-a1cb-3863bb33a4e4,Métro Pie-IX (Pierre-de-Coubertin / Pie-IX),6396,45.55421375524564,-73.55155974626541,CREDITCARD,KEY,49,false,false,,,,,,,,,true
+389,0b1416bd-08f3-11e7-a1cb-3863bb33a4e4,Parc Outremont (Bloomfield / Elmwood),6301,45.518309446368,-73.60328614711761,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+390,0b1417e4-08f3-11e7-a1cb-3863bb33a4e4,Stuart / St-Viateur,6302,45.516078703024085,-73.60779762268066,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+391,0b141901-08f3-11e7-a1cb-3863bb33a4e4,Pratt / Van Horne,6303,45.51414486304299,-73.6203020811081,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+392,0b141a1b-08f3-11e7-a1cb-3863bb33a4e4,Rockland / Lajoie,6304,45.515617,-73.614991,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+393,0b141b49-08f3-11e7-a1cb-3863bb33a4e4,Davaar / de la Côte-Ste-Catherine,6305,45.514379,-73.610871,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+394,0b141c69-08f3-11e7-a1cb-3863bb33a4e4,Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),6306,45.510086,-73.611429,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+396,0b141e98-08f3-11e7-a1cb-3863bb33a4e4,Gary-Carter / St-Laurent,6321,45.53589982664126,-73.62244248390198,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+397,0b1425cb-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / Jean-Talon,6344,45.53524809921431,-73.61756354570389,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+399,0b14284e-08f3-11e7-a1cb-3863bb33a4e4,Lionel-Groulx / George-Vanier,6409,45.48621939184824,-73.5737469792366,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+401,0b14514d-08f3-11e7-a1cb-3863bb33a4e4,de l'Hôtel-de-Ville / Sherbrooke,6021,45.514564669657595,-73.56840670108795,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+403,0b1453ac-08f3-11e7-a1cb-3863bb33a4e4,McTavish / des Pins,6066,45.50530549708951,-73.58100235462189,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+404,0b1454e7-08f3-11e7-a1cb-3863bb33a4e4,Prince-Arthur / St-Urbain,6218,45.51258740220925,-73.57373893260956,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+406,0b145cb7-08f3-11e7-a1cb-3863bb33a4e4,Metro Jean-Drapeau (Chemin Macdonald),6501,45.512800575819625,-73.5311159491539,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+407,0b145ebe-08f3-11e7-a1cb-3863bb33a4e4,Casino de Montréal,6502,45.5063732,-73.52457672,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+408,0b145fee-08f3-11e7-a1cb-3863bb33a4e4,Métro Parc  (Ogilvy / Hutchison),6503,45.53035130173597,-73.6243924498558,CREDITCARD,KEY,33,false,false,,,,,,,,,true
+409,0b14611d-08f3-11e7-a1cb-3863bb33a4e4,La Ronde,6504,45.52156536710626,-73.53533238172531,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+413,0b1465ad-08f3-11e7-a1cb-3863bb33a4e4,de Melrose / Sherbrooke,6415,45.469819787448564,-73.61696138978003,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+414,0b146c18-08f3-11e7-a1cb-3863bb33a4e4,de la Salle / Hochelaga,6417,45.55415230370231,-73.54749351739883,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+415,0b146d57-08f3-11e7-a1cb-3863bb33a4e4,Paré / Mountain Sights,6418,45.49810026070624,-73.65294188261032,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+416,0b146e6c-08f3-11e7-a1cb-3863bb33a4e4,Square Chaboillez (St-Jacques / de la Cathédrale),6424,45.49656303562923,-73.56491714715958,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+417,0b147065-08f3-11e7-a1cb-3863bb33a4e4,Cartier / Rosemont,6421,45.54124722370603,-73.59104454517365,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+418,0b147194-08f3-11e7-a1cb-3863bb33a4e4,Notre-Dame-de-Grâce / Décarie,6416,45.47735333523628,-73.61537218093872,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+419,0b1472bf-08f3-11e7-a1cb-3863bb33a4e4,Beaucourt / de la Côte-Ste-Catherine,6419,45.491513,-73.633649,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+421,0b14793c-08f3-11e7-a1cb-3863bb33a4e4,Hôpital général juif (de la Côte Ste-Catherine / Légaré),6423,45.496302,-73.629822,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+422,0b147a69-08f3-11e7-a1cb-3863bb33a4e4,Métro Snowdon (de Westbury / Queen-Mary),6420,45.48538473242346,-73.62814217805862,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+423,0b147b7b-08f3-11e7-a1cb-3863bb33a4e4,Fleury / Lajeunesse,6422,45.55357892880519,-73.66208285093306,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+424,0b147c90-08f3-11e7-a1cb-3863bb33a4e4,Métro Crémazie (Crémazie / Lajeunesse),6410,45.54640752148169,-73.63842844963074,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+425,0b147daa-08f3-11e7-a1cb-3863bb33a4e4,Complexe sportif Claude-Robillard,6412,45.553262,-73.638615,CREDITCARD,KEY,24,false,false,,,,,,,,,true
+426,0b1482b7-08f3-11e7-a1cb-3863bb33a4e4,Union / Cathcart,6413,45.50355184389659,-73.56875538825989,CREDITCARD,KEY,3,false,false,,,,,,,,,true
+427,0b1483e2-08f3-11e7-a1cb-3863bb33a4e4,Parc St-Henri (Laporte / Guay),6414,45.48013378575666,-73.58590811491013,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+428,0b1485d4-08f3-11e7-a1cb-3863bb33a4e4,Métro de l'Église (Ross / de l'Église),6425,45.462846046287325,-73.56592163443565,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+429,0b1486fb-08f3-11e7-a1cb-3863bb33a4e4,Métro Verdun (Willibrord / de Verdun),6426,45.459487694540734,-73.57209205627441,CREDITCARD,KEY,26,false,false,,,,,,,,,true
+430,0b14880a-08f3-11e7-a1cb-3863bb33a4e4,Métro Lasalle (de Rushbrooke / Caisse),6427,45.47069642604657,-73.56542240828276,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+431,0b149ec4-08f3-11e7-a1cb-3863bb33a4e4,Place du Commerce,6429,45.46714,-73.54259,CREDITCARD,KEY,33,false,false,,,,,,,,,true
+432,0b14a0b5-08f3-11e7-a1cb-3863bb33a4e4,Clark / Prince-Arthur,6411,45.5133025720765,-73.57296109199524,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+433,0b14a228-08f3-11e7-a1cb-3863bb33a4e4,Berlioz / de l'Île des Soeurs,6428,45.45998577640931,-73.54395568370819,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+437,0b14ae83-08f3-11e7-a1cb-3863bb33a4e4,Resther / St-Joseph,6281,45.52769780849099,-73.58625277876854,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+438,0b14b09f-08f3-11e7-a1cb-3863bb33a4e4,de Maisonneuve / Greene,6432,45.48697062,-73.58929306,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+439,0b14b712-08f3-11e7-a1cb-3863bb33a4e4,Hillside / Ste-Catherine,6433,45.48282602624293,-73.59084337949753,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+440,0b14b8bc-08f3-11e7-a1cb-3863bb33a4e4,Victoria / de Maisonneuve,6434,45.47742856483265,-73.60016942024231,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+441,0b14ba3a-08f3-11e7-a1cb-3863bb33a4e4,Victoria Hall,6435,45.48129146961133,-73.6003303527832,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+442,0b14c124-08f3-11e7-a1cb-3863bb33a4e4,Argyle / Sherbrooke,6436,45.48580087370364,-73.5957974300254,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+443,0b14c2b4-08f3-11e7-a1cb-3863bb33a4e4,St-Charles / Montarville,5002,45.53368199320325,-73.51526074111462,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+444,0b14c9db-08f3-11e7-a1cb-3863bb33a4e4,Place Longueuil,5003,45.52841043752244,-73.51716578006744,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+445,0b14cb90-08f3-11e7-a1cb-3863bb33a4e4,St-Charles / Grant,5004,45.539824,-73.508752,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+446,0b14d26c-08f3-11e7-a1cb-3863bb33a4e4,St-Charles / St-Jean,5005,45.53690747306937,-73.51191401481627,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+447,0b14d40c-08f3-11e7-a1cb-3863bb33a4e4,Collège Édouard-Montpetit (de Gentilly / de Normandie),5006,45.53722603812578,-73.49506705999374,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+448,0b14d978-08f3-11e7-a1cb-3863bb33a4e4,Métro Longueuil - Université de Sherbrooke,5007,45.52331869398737,-73.52012693881989,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+452,0b14e83b-08f3-11e7-a1cb-3863bb33a4e4,St-André / St-Grégoire,6929,45.53147464147482,-73.59242051839828,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+453,0b14edb8-08f3-11e7-a1cb-3863bb33a4e4,Cité des Arts du Cirque (Paul Boutet / des Regrattiers),6930,45.55984236120471,-73.61544728279114,CREDITCARD,KEY,34,false,false,,,,,,,,,true
+454,0b14f30c-08f3-11e7-a1cb-3863bb33a4e4,de la Salle / Ste-Catherine,6700,45.54996328646854,-73.53443384170531,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+455,0b15234d-08f3-11e7-a1cb-3863bb33a4e4,Stanley / Sherbrooke,6701,45.50104110864491,-73.57717752456664,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+456,0b153eab-08f3-11e7-a1cb-3863bb33a4e4,Métro Assomption (Chauveau / de l'Assomption),6702,45.569789,-73.548081,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+457,0b154e30-08f3-11e7-a1cb-3863bb33a4e4,Jardin Botanique (Pie-IX / Sherbrooke),6703,45.55500446099039,-73.55535507202148,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+458,0b15509c-08f3-11e7-a1cb-3863bb33a4e4,19e avenue / St-Zotique,6704,45.561594,-73.585643,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+459,0b1551f1-08f3-11e7-a1cb-3863bb33a4e4,5e avenue / Bannantyne,6705,45.456365,-73.57614,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+460,0b15530e-08f3-11e7-a1cb-3863bb33a4e4,Beatty / de Verdun,6706,45.450729976972944,-73.5725748538971,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+461,0b155435-08f3-11e7-a1cb-3863bb33a4e4,Métro Jolicoeur (Drake / de Sève),6707,45.45608545783109,-73.58193710446358,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+462,0b155561-08f3-11e7-a1cb-3863bb33a4e4,Place Jean-Paul Riopelle (Viger / de Bleury),6708,45.503570799233536,-73.56099039316177,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+463,0b15569e-08f3-11e7-a1cb-3863bb33a4e4,Le Caron / Marc-Sauvalle ,6709,45.461685,-73.584039,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+464,0b1557b8-08f3-11e7-a1cb-3863bb33a4e4,Chambord / Fleury,6710,45.55982811984724,-73.65832507610321,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+465,0b1558cf-08f3-11e7-a1cb-3863bb33a4e4,Alexandra / Waverly,6711,45.531938,-73.617842,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+466,0b1559e7-08f3-11e7-a1cb-3863bb33a4e4,LaSalle / Crawford,6712,45.43791380065227,-73.58274042606354,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+467,0b155b17-08f3-11e7-a1cb-3863bb33a4e4,29e avenue / St-Zotique,6713,45.56776565172907,-73.57968807220459,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+468,0b1560e8-08f3-11e7-a1cb-3863bb33a4e4,LaSalle / 90e avenue,6714,45.417147421132526,-73.64422470331192,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+469,0b156254-08f3-11e7-a1cb-3863bb33a4e4,Natatorium (LaSalle / Rolland),6715,45.44454701497536,-73.57509076595306,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+470,0b156380-08f3-11e7-a1cb-3863bb33a4e4,Francis / Fleury,6716,45.56387237463668,-73.6555677652359,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+471,0b156493-08f3-11e7-a1cb-3863bb33a4e4,de Kent / Victoria,6717,45.49456403292622,-73.63870203495026,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+472,0b1565a3-08f3-11e7-a1cb-3863bb33a4e4,Grand Boulevard / Sherbrooke,6718,45.466569,-73.623295,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+473,0b1566c9-08f3-11e7-a1cb-3863bb33a4e4,Park Row O / Sherbrooke,6719,45.46072936353252,-73.63407254219055,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+474,0b1567df-08f3-11e7-a1cb-3863bb33a4e4,Ontario / Viau,6720,45.5594818,-73.535496,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+475,0b1568f2-08f3-11e7-a1cb-3863bb33a4e4,Métro Cadillac (de Cadillac / Sherbrooke),6721,45.5769632283486,-73.54683637619019,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+476,0b156b6c-08f3-11e7-a1cb-3863bb33a4e4,du Quesne / Pierre-de-Coubertin,6722,45.57498439946887,-73.53884875774384,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+477,0b156ca1-08f3-11e7-a1cb-3863bb33a4e4,26e avenue / Beaubien,6723,45.564944,-73.577639,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+478,0b156dca-08f3-11e7-a1cb-3863bb33a4e4,Léa-Roback / Sir-Georges-Etienne-Cartier,6724,45.47166862589184,-73.582643866539,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+479,0b156eef-08f3-11e7-a1cb-3863bb33a4e4,Métro Monk (Allard / Beaulieu),6725,45.45085122,-73.5940272,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+480,0b157007-08f3-11e7-a1cb-3863bb33a4e4,Hamel / Sauvé,6726,45.56076192837154,-73.6505614221096,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+481,0b157114-08f3-11e7-a1cb-3863bb33a4e4,de la Sucrerie / Centre,6727,45.48408128505464,-73.56091797351837,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+482,0b15722c-08f3-11e7-a1cb-3863bb33a4e4,d'Outremont / Ogilvy,6728,45.52687028194893,-73.62672328948975,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+483,0b157357-08f3-11e7-a1cb-3863bb33a4e4,St-André / Ste-Catherine,6729,45.516426545782224,-73.5581123828888,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+484,0b15746b-08f3-11e7-a1cb-3863bb33a4e4,35e avenue / Beaubien,6730,45.570081,-73.573047,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+485,0b15757a-08f3-11e7-a1cb-3863bb33a4e4,Villeray / de Normanville,6733,45.547172039327485,-73.6185210943222,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+486,0b15768c-08f3-11e7-a1cb-3863bb33a4e4,Fortune / Wellington,6732,45.477923,-73.559038,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+487,0b1577a0-08f3-11e7-a1cb-3863bb33a4e4,28e avenue / Rosemont,6731,45.564353,-73.571244,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+489,0b1579f1-08f3-11e7-a1cb-3863bb33a4e4,Lajeunesse / Villeray,6734,45.54211889,-73.6225471,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+490,0b157b10-08f3-11e7-a1cb-3863bb33a4e4,Métro Henri-Bourassa (Henri-Bourassa / Millen),6736,45.55675103297278,-73.66716161370277,CREDITCARD,KEY,16,false,false,,,,,,,,,true
+491,0b157c28-08f3-11e7-a1cb-3863bb33a4e4,Jacques-Casault / Christophe-Colomb,6737,45.552123,-73.630103,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+492,0b157d3b-08f3-11e7-a1cb-3863bb33a4e4,Villeray / St-Michel,6735,45.56105928295798,-73.6039674282074,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+493,0b157e60-08f3-11e7-a1cb-3863bb33a4e4,Union / René-Lévesque,6738,45.50235036136798,-73.56658279895781,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+495,0b158095-08f3-11e7-a1cb-3863bb33a4e4,Pierre-de-Coubertin / Langelier,6739,45.580314546424674,-73.5353136062622,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+496,0b1581a7-08f3-11e7-a1cb-3863bb33a4e4,Canning / Notre-Dame,6741,45.486318644010225,-73.5702332854271,CREDITCARD,KEY,7,false,false,,,,,,,,,true
+497,0b1582bb-08f3-11e7-a1cb-3863bb33a4e4,St-Patrick / Briand,6742,45.46339729163665,-73.59643578529356,CREDITCARD,KEY,17,false,false,,,,,,,,,true
+498,0b1583e3-08f3-11e7-a1cb-3863bb33a4e4,St-Marc / Sherbrooke,6743,45.494514,-73.583368,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+499,0b1584ff-08f3-11e7-a1cb-3863bb33a4e4,Hamilton / Jolicoeur,6744,45.456355,-73.597557,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+500,0b158b6f-08f3-11e7-a1cb-3863bb33a4e4,de l'Épée / Jean-Talon,6745,45.52797966680089,-73.62388283014297,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+501,0b158ca5-08f3-11e7-a1cb-3863bb33a4e4,Métro Acadie (de l'Acadie / Beaumont),6746,45.52357479400008,-73.62344294786453,CREDITCARD,KEY,21,false,false,,,,,,,,,true
+502,0b158db7-08f3-11e7-a1cb-3863bb33a4e4,Waverly / St-Zotique,6747,45.53050525974957,-73.61470833420753,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+503,0b158eeb-08f3-11e7-a1cb-3863bb33a4e4,Young / Wellington,6748,45.49282530947313,-73.55797827243805,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+504,0b159001-08f3-11e7-a1cb-3863bb33a4e4,St-Jacques / St-Laurent,6749,45.50642115207643,-73.55646550655365,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+505,0b159114-08f3-11e7-a1cb-3863bb33a4e4,de Mentana / Gilford,6750,45.52872356043453,-73.58385890722275,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+508,0b15bda3-08f3-11e7-a1cb-3863bb33a4e4,Hutchison / Beaubien,6752,45.52605851018324,-73.61296892166138,CREDITCARD,KEY,26,false,false,,,,,,,,,true
+511,0b15c175-08f3-11e7-a1cb-3863bb33a4e4,Centre ÉPIC (St-Zotique / 40e avenue),6753,45.57414703721992,-73.57462137937546,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+512,0b15c291-08f3-11e7-a1cb-3863bb33a4e4,Eadie / Dubois,6754,45.45759682462104,-73.59052859581423,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+514,0b15c4e5-08f3-11e7-a1cb-3863bb33a4e4,Ball / Querbes,7001,45.531177514650885,-73.6321359872818,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+515,0b15c602-08f3-11e7-a1cb-3863bb33a4e4,Meunier / Fleury,7002,45.54485857398681,-73.66681426763535,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+516,0b15c71c-08f3-11e7-a1cb-3863bb33a4e4,Métro Guy-Concordia (Guy / St-Catherine),7003,45.49498148219463,-73.57773274183273,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+517,0b15c831-08f3-11e7-a1cb-3863bb33a4e4,Émile-Journault / de Chateaubriand,7004,45.54983321292286,-73.64063255488873,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+518,0b15c94a-08f3-11e7-a1cb-3863bb33a4e4,Marquette / Fleury,7005,45.56735205736566,-73.65378744900227,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+519,0b15ca76-08f3-11e7-a1cb-3863bb33a4e4,Clark / Fleury,7006,45.54764847825576,-73.6655656993389,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+520,0b15cb8e-08f3-11e7-a1cb-3863bb33a4e4,Kirkfield / de Chambois,7007,45.51293324107222,-73.63389015197754,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+521,0b15cca5-08f3-11e7-a1cb-3863bb33a4e4,Rousselot / Jarry,7008,45.55076907833167,-73.62091094255447,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+522,0b15cdba-08f3-11e7-a1cb-3863bb33a4e4,Place Émilie-Gamelin (de Maisonneuve / Berri),7009,45.51569016499682,-73.56096625328064,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+523,0b15cee1-08f3-11e7-a1cb-3863bb33a4e4,Coolbrook / Queen-Mary,7010,45.48285235405571,-73.63034427165985,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+524,0b15d009-08f3-11e7-a1cb-3863bb33a4e4,Panet / de Maisonneuve,7011,45.520573635013434,-73.55614364147186,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+525,0b15d11c-08f3-11e7-a1cb-3863bb33a4e4,St-Hubert / René-Lévesque,7012,45.51433537033962,-73.55646349489689,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+526,0b15d232-08f3-11e7-a1cb-3863bb33a4e4,Benny / Sherbrooke,7013,45.4648769981855,-73.62659722566605,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+527,0b15d348-08f3-11e7-a1cb-3863bb33a4e4,Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),7014,45.50427796704115,-73.61797660589218,CREDITCARD,KEY,18,false,false,,,,,,,,,true
+528,0b15d9c8-08f3-11e7-a1cb-3863bb33a4e4,Parc des Rapides (LaSalle / 6e avenue),7015,45.42947143740888,-73.59309915918857,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+529,0b15db12-08f3-11e7-a1cb-3863bb33a4e4,Métro Langelier (Langelier / Sherbrooke),7016,45.58284663189181,-73.54247644543648,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+530,0b15dc2d-08f3-11e7-a1cb-3863bb33a4e4,Bennett / Ste-Catherine,7017,45.55305326642512,-73.53242754936218,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+531,0b15dd46-08f3-11e7-a1cb-3863bb33a4e4,Valois / Ste-Catherine,7018,45.54522973039872,-73.53725016117096,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+532,0b15de58-08f3-11e7-a1cb-3863bb33a4e4,Casgrain / St-Viateur,7019,45.52751292628879,-73.59879076480864,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+533,0b15df6a-08f3-11e7-a1cb-3863bb33a4e4,St-Germain / Hochelaga,7020,45.5436987529516,-73.55367332696915,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+534,0b15e094-08f3-11e7-a1cb-3863bb33a4e4,Dollard / Van Horne,7021,45.51915286772737,-73.61646920442581,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+535,0b15e1ac-08f3-11e7-a1cb-3863bb33a4e4,Durocher / Bernard,7022,45.52222528598142,-73.60668718814848,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+536,0b15e2c4-08f3-11e7-a1cb-3863bb33a4e4,CHSLD St-Michel (Jarry / 8e avenue),7023,45.561690269046075,-73.61051201820374,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+537,0b15e3d6-08f3-11e7-a1cb-3863bb33a4e4,Berri / St-Joseph,7024,45.52723106564012,-73.58672618865965,CREDITCARD,KEY,18,false,false,,,,,,,,,true
+538,0b15e4ea-08f3-11e7-a1cb-3863bb33a4e4,Alexandra / Jean-Talon,7042,45.532330645908054,-73.62018674612045,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+539,0b15e611-08f3-11e7-a1cb-3863bb33a4e4,St-Dominique / Bernard,7025,45.52793332015246,-73.60122251338906,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+540,0b15e73a-08f3-11e7-a1cb-3863bb33a4e4,Maguire / Henri-Julien,7026,45.527041096087785,-73.59347056655677,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+541,0b15e8c3-08f3-11e7-a1cb-3863bb33a4e4,Terrasse Guindon / Fullum,7027,45.537114135456825,-73.56913894414902,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+542,0b15e9f2-08f3-11e7-a1cb-3863bb33a4e4,de Gaspé / St-Viateur,7028,45.52774827884841,-73.59743893146515,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+543,0b15eb0c-08f3-11e7-a1cb-3863bb33a4e4,Cartier / Masson,7029,45.5380207402854,-73.58352363109587,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+544,0b15ec38-08f3-11e7-a1cb-3863bb33a4e4,de Bordeaux / Marie-Anne,7030,45.53340912723174,-73.57065707445145,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+545,0b15ed4a-08f3-11e7-a1cb-3863bb33a4e4,Berri / Rachel,7031,45.522718910827734,-73.5772043466568,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+546,0b15ee5d-08f3-11e7-a1cb-3863bb33a4e4,Drolet / Laurier,7032,45.526251876092516,-73.58975838928018,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+547,0b15ef72-08f3-11e7-a1cb-3863bb33a4e4,Aylmer / Prince-Arthur,7033,45.508566869474386,-73.57769787311554,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+548,0b15f085-08f3-11e7-a1cb-3863bb33a4e4,Atwater / Greene,7034,45.480495143306044,-73.57782661914825,CREDITCARD,KEY,25,false,false,,,,,,,,,true
+549,0b15f1a7-08f3-11e7-a1cb-3863bb33a4e4,Fullum / Gilford,7035,45.53922374455291,-73.57383679656778,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+550,0b15f2ba-08f3-11e7-a1cb-3863bb33a4e4,Labadie / du Parc,7036,45.5198946757576,-73.59682738780975,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+551,0b15f3cb-08f3-11e7-a1cb-3863bb33a4e4,Prince-Arthur / Ste-Famille,7037,45.5116382139746,-73.57463479042053,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+552,0b15fa35-08f3-11e7-a1cb-3863bb33a4e4,Guilbault / Clark,7038,45.514107949601446,-73.57523024082184,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+553,0b15fb65-08f3-11e7-a1cb-3863bb33a4e4,du Mont-Royal / Augustin-Frigon,7039,45.543763151117474,-73.56772005558014,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+554,0b15fc8b-08f3-11e7-a1cb-3863bb33a4e4,St-Urbain / Beaubien,7040,45.52951033828327,-73.61067965626717,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+555,0b15fda8-08f3-11e7-a1cb-3863bb33a4e4,de Maisonneuve / Peel,7041,45.50095054783712,-73.57457846403122,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+556,0b15febc-08f3-11e7-a1cb-3863bb33a4e4,Ernest-Gendreau / du Mont-Royal,7043,45.549713734001415,-73.56384828686714,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+557,0b15ffd0-08f3-11e7-a1cb-3863bb33a4e4,Hôpital Santa Cabrini (St-Zotique / Jeanne-Jugan),7044,45.5793249650848,-73.5705041885376,CREDITCARD,KEY,14,false,false,,,,,,,,,true
+558,0b1600e4-08f3-11e7-a1cb-3863bb33a4e4,Casgrain / Mozart,7045,45.53472725603326,-73.6147928237915,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+559,0b160210-08f3-11e7-a1cb-3863bb33a4e4,de Maisonneuve / Mansfield (nord),7046,45.502386079583346,-73.57333794236183,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+560,0b160324-08f3-11e7-a1cb-3863bb33a4e4,Ottawa / Peel,7047,45.49390894768301,-73.55950713157654,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+561,0b16042d-08f3-11e7-a1cb-3863bb33a4e4,Métro Angrignon (Lamont /  des Trinitaires),7048,45.44704365278581,-73.6021783483011,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+562,0b160541-08f3-11e7-a1cb-3863bb33a4e4,William / Guy,7049,45.48986545713166,-73.56473073363304,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+563,0b160654-08f3-11e7-a1cb-3863bb33a4e4,Ottawa / William,7050,45.48972725318433,-73.56406286358833,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+564,0b162bfe-08f3-11e7-a1cb-3863bb33a4e4,Jogues / Allard,7051,45.450020323797766,-73.60030621290207,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+565,0b162d59-08f3-11e7-a1cb-3863bb33a4e4,Shearer / Centre,7052,45.483005619293046,-73.56218665838242,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+566,0b162e76-08f3-11e7-a1cb-3863bb33a4e4,Ropery / Augustin-Cantin,7053,45.48091406771754,-73.56846034526825,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+567,0b162f91-08f3-11e7-a1cb-3863bb33a4e4,de la Côte St-Paul / St-Ambroise,7054,45.467665653865964,-73.59391784324544,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+568,0b1630a7-08f3-11e7-a1cb-3863bb33a4e4,Rose-de-Lima / Notre-Dame,7055,45.479950265560184,-73.5805356502533,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+569,0b1631cc-08f3-11e7-a1cb-3863bb33a4e4,Bibliothèque de Verdun (Brown / Bannantyne),7056,45.44826204820947,-73.57785612344742,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+570,0b1632e1-08f3-11e7-a1cb-3863bb33a4e4,2e avenue / Wellington,7057,45.45789352611307,-73.56752824096475,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+571,0b1633f6-08f3-11e7-a1cb-3863bb33a4e4,Gordon / Wellington,7058,45.461077990108386,-73.56730699539183,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+572,0b163a73-08f3-11e7-a1cb-3863bb33a4e4,Argyle / de Verdun,7059,45.45301583620112,-73.57191503047943,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+573,0b163ba4-08f3-11e7-a1cb-3863bb33a4e4,de l'Église / de Verdun,7060,45.46300108733155,-73.57156895217486,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+574,0b163ccd-08f3-11e7-a1cb-3863bb33a4e4,Lajeunesse / de Castelnau,7061,45.540396208099985,-73.61681789159775,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+575,0b163de4-08f3-11e7-a1cb-3863bb33a4e4,William / Robert-Bourassa,7062,45.49716534003792,-73.55933010578154,CREDITCARD,KEY,21,false,false,,,,,,,,,true
+576,0b163fee-08f3-11e7-a1cb-3863bb33a4e4,Drolet / Jarry,7063,45.54195463236575,-73.62994194030762,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+577,0b164119-08f3-11e7-a1cb-3863bb33a4e4,Clark / de Liège,7064,45.539983846015616,-73.6381347477436,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+578,0b164237-08f3-11e7-a1cb-3863bb33a4e4,de Lanaudière / Bélanger,7065,45.54365085053057,-73.60565051436424,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+579,0b16436c-08f3-11e7-a1cb-3863bb33a4e4,St-Urbain / de la Gauchetière,7066,45.50707812811467,-73.56139540672302,CREDITCARD,KEY,43,false,false,,,,,,,,,true
+580,0b164480-08f3-11e7-a1cb-3863bb33a4e4,City Councillors / du President-Kennedy,7067,45.50625103256782,-73.57139065861702,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+581,0b164596-08f3-11e7-a1cb-3863bb33a4e4,Basin / Richmond,7068,45.48753098712153,-73.56507003307343,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+582,0b1646b5-08f3-11e7-a1cb-3863bb33a4e4,Jeanne-Mance / René-Lévesque,7069,45.5063713381299,-73.5642009973526,CREDITCARD,KEY,35,false,false,,,,,,,,,true
+583,0b1647cd-08f3-11e7-a1cb-3863bb33a4e4,Bourgeoys / Favard,7070,45.47993042065731,-73.55592101812363,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+584,0b1648f0-08f3-11e7-a1cb-3863bb33a4e4,St-Mathieu / Sherbrooke,7071,45.495789104811756,-73.58259558677672,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+585,0b1649fe-08f3-11e7-a1cb-3863bb33a4e4,Beaudry / Sherbrooke,7072,45.52303493310712,-73.56539458036421,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+586,0b164b12-08f3-11e7-a1cb-3863bb33a4e4,Logan / de Champlain,7073,45.5231943285584,-73.55584256350994,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+587,0b164c29-08f3-11e7-a1cb-3863bb33a4e4,St-André / Robin,7074,45.518128086513194,-73.56185138225555,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+588,0b164d42-08f3-11e7-a1cb-3863bb33a4e4,CIUSSS (du Trianon / Pierre-de-Coubertin),7075,45.58753125134183,-73.5319072008133,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+589,0b164e7c-08f3-11e7-a1cb-3863bb33a4e4,Tupper / du Fort,7076,45.49122961531575,-73.58078241348267,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+590,0b1654f1-08f3-11e7-a1cb-3863bb33a4e4,Jean Langlois / Fullum,7077,45.526499983000186,-73.54575277422555,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+591,0b16562e-08f3-11e7-a1cb-3863bb33a4e4,Hochelaga / Chapleau,7078,45.53445294687473,-73.55965197086334,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+592,0b165745-08f3-11e7-a1cb-3863bb33a4e4,Notre-Dame / Gauvin,7079,45.50010529681542,-73.56019914150238,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+593,0b165864-08f3-11e7-a1cb-3863bb33a4e4,du President-Kennedy / Union,7080,45.50501114975704,-73.57202768325806,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+594,0b165999-08f3-11e7-a1cb-3863bb33a4e4,St-Denis / de Maisonneuve,7081,45.514384629068346,-73.56173202395439,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+595,1bae0e44-d82a-4cfd-8d8d-5e6f1f0fa3e5,Jeanne-d'Arc / Ontario,4000,45.54959767887176,-73.54187428951263,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+605,622200e7-1cdb-4012-bed7-da753162cf14,Graham / Brookfield,4001,45.52007477080967,-73.6297756433487,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+606,d0c5bf9b-ca11-43fb-a5c8-9a4902714ed0,Graham / Wicksteed,4002,45.51693654712809,-73.64048302173615,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+607,a69227c7-deda-4988-a5fd-f3e9fe4d00fe,Métro Lionel-Groulx (Atwater / Lionel-Groulx),7082,45.482941269100394,-73.57974171638489,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+608,4cabba00-e5fa-434b-a526-7653c25e392c,McTavish / Sherbrooke,7084,45.502812816508936,-73.57602417469025,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+609,41bdaf12-6920-4305-8192-d62787029389,Parc de Bullion (de Bullion / Prince-Arthur),7083,45.515604257816335,-73.57213497161865,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+610,ad95c994-c6b6-4c07-aa95-915b2c4a83c9,de la Grande-Allée / Ste-Catherine,7085,45.631379636554705,-73.50685738027096,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+611,98ee8221-ac11-4cca-9855-159f6ec2a125,Parc de l'Hôtel-de-Ville (Dubé / Laurendeau),7086,45.630650344762316,-73.49499464035034,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+612,9d5bb509-7b2e-4f4b-8211-2e1711d334cb,St-Jean-Baptiste / René-Lévesque,7087,45.64155705644063,-73.50037515163422,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+613,b7bf4d7f-fc95-48de-9be0-f5067757b87d,du Tricentenaire / de Montigny,7088,45.65140583915357,-73.50041270256041,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+614,7a5ab188-a9cf-45c0-aa7d-bc5a19adf4ab,du Tricentenaire / Prince-Albert,7089,45.64954588445726,-73.49191546440125,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+617,11d35b5a-4128-414d-8605-b7f4a423d0af,de St-Firmin / Fleury,7090,45.57065664170425,-73.65184217691422,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+618,8c890268-9d84-48c2-b110-7a8dcb0b67d8,Fleury / André-Jobin,7091,45.57600034155425,-73.64676475524902,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+619,0ca346e9-95e1-402f-a074-6b71d2c9e3dd,Gare Bois-de-Boulogne,7092,45.53972553109637,-73.67716491222382,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+620,9c482b2f-0a57-4ef8-8bd5-73ac839b1b35,Laforest / Dudemaine,7093,45.539806548176045,-73.6872661113739,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+621,b4d3a74f-e4e1-4e2f-a748-b4c90a4f4b03,Alfred Laliberté / de Poutrincourt,7094,45.53308032414161,-73.6945965886116,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+622,46c3a863-9ca1-4a9d-878a-1f0e0e61e0b6,Chabanel / de l'Esplanade,7095,45.540685517278774,-73.65337640047073,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+623,8afbbf58-1be5-4a44-91ef-42f6c5635c99,Chabanel / du Parc,7096,45.53830765459552,-73.6548838019371,CREDITCARD,KEY,30,false,false,,,,,,,,,true
+624,a5bbe554-36cb-430d-9e74-4a1903c9b474,Bélanger / des Galeries d'Anjou,7097,45.59722114932571,-73.56279015541077,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+625,5d358b14-6a3b-48cf-ba5a-c37f818e20f8,Vezina / Victoria,7099,45.49704689488635,-73.64321619272232,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+626,37ce8fe7-e47c-4fc2-bb12-188268b84830,Parc d'Antioche,7098,45.59535188887634,-73.55858981609344,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+627,989222c7-dff8-4027-8740-a788098fcaf2,Métro Namur (des Jockeys / Décarie),7100,45.49404432109336,-73.65449488162994,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+628,27f3c8a3-0874-40bb-9eb4-26ae3941f736,Métro de la Savane (de Sorel / Bougainville),7101,45.500450948002225,-73.66142839193344,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+629,64618de1-bec1-4a96-9e38-ee75fbd59106,Grand Boulevard / de Terrebonne,7102,45.47054370043364,-73.63168001174927,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+630,ac6d0172-ae6b-45a1-a0f2-71db92e52559,St-Joseph / 8e avenue Lachine,7103,45.43147138678842,-73.67120504379272,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+631,cedfe1f7-5148-449c-b09e-d37dafa66c26,8e avenue / Notre-Dame Lachine,7104,45.43498715540587,-73.67079868912697,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+632,11d98bc0-a11f-4506-9a74-89b6ae3cbc55,St-Joseph / 34e avenue Lachine,7105,45.432839840726125,-73.69349151849747,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+633,05c30e26-3af8-4324-a927-2107af730e84,Victoria / 18e avenue Lachine,7106,45.43579350588776,-73.6801904439926,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+634,2890e427-fe95-4bf1-a268-85699f6388e6,19e avenue / St-Joseph Lachine,7107,45.43312379149661,-73.68140548467636,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+635,3a782ff8-eac1-4d9f-97c3-980b94e09d10,Gagne / LaSalle,7108,45.422451407155854,-73.601194024086,CREDITCARD,KEY,47,false,false,,,,,,,,,true
+636,9ff2903a-3e84-4cf7-a08f-56c179f47ca9,Cégep André-Laurendeau,7109,45.43566446235294,-73.60565185546875,CREDITCARD,KEY,22,false,false,,,,,,,,,true
+637,6f06d2d0-fe38-4f27-b954-0708c64e9111,LaSalle / 67e avenue,7110,45.415348837097696,-73.62651407718658,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+638,141b3cb8-010c-404e-8017-85fd538f1036,Highlands / LaSalle,7111,45.42612352042827,-73.65741580724716,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+639,e53f7ac3-165f-41e1-9f68-d3471b6897b1,Newman / Senkus,7112,45.44404309237571,-73.61375212669373,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+640,0be4f33e-fcbd-4d98-9401-229fd183bd78,Casgrain / Maguire,7113,45.52593260934618,-73.59525293111801,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+641,8c6532d4-b6ed-481b-b6c9-585459a6becb,Smith / Peel,7114,45.492837758845226,-73.5564199090004,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+642,913c1975-01ea-4a82-b7fe-0e69126f1ba9,Métro Radisson (Sherbrooke / des Groseilliers),7115,45.58917500418707,-73.53965610265732,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+643,310b2729-af0a-4e79-8cb9-af1139e0229c,Métro Honoré-Beaugrand (Sherbrooke / Honoré-Beaugrand),7116,45.5967964774917,-73.53517949581145,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+644,1257b2a7-d643-4059-a6d9-15f64fe2518f,François-Boivin / Bélanger,7117,45.59259615276133,-73.56617510318756,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+645,7e5f3173-c724-4050-8178-2b4e0b2a5e4d,Tellier / des Futailles,7118,45.58600999065885,-73.52183818817139,CREDITCARD,KEY,47,false,false,,,,,,,,,true
+646,42196207-6f5d-4c13-ba35-a900d5e1be17,Notre-Dame / Liébert,7119,45.59280261038491,-73.51046562194824,CREDITCARD,KEY,39,false,false,,,,,,,,,true
+647,713a0060-2a0b-44f1-99b2-947eaa8dbfc3,Notre-Dame / des Ormeaux,7120,45.59920617334637,-73.5122399032116,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+648,d9449bf6-4241-4443-9094-cdfc4c756ed0,de Bruxelles / Hochelaga,7121,45.59264808020603,-73.52521777153015,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+649,0ae94fea-0db4-4f0d-af33-f185822d1759,de Belleville / Fleury,7122,45.58116002977833,-73.64124342799187,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+650,ca333629-870e-4a74-9ee3-19d8b3af4c3c,des Récollets / Martial,7123,45.59089190991344,-73.64061713218689,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+651,2bab7c8c-5374-4286-b14c-e391853f4fcd,Dollard / Bernard,7124,45.51678269880724,-73.61142262816429,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+652,a2c00315-461b-4191-b92b-eca7e4bfb066,Rosemont / Viau,7125,45.56833021674857,-73.56666326522826,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+653,f7f6df8f-3a19-42c6-8c9c-1816cf38bca9,41e avenue / Rosemont,7126,45.57178977666956,-73.56431499123573,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+654,74a3693c-e8b1-4b8d-922a-64f4d7f2f99e,Jeanne-Mance / Beaubien,7127,45.527650097960205,-73.61229971051216,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+655,9d1f847c-5f68-47f1-a21a-34876a3926c3,Métro Côte-Vertu (Gohier / Edouard-Laurin),7128,45.512989627641865,-73.68249848484993,CREDITCARD,KEY,25,false,false,,,,,,,,,true
+656,99aa90a0-1eeb-42d0-968a-4549dfd76378,de l'Eglise / St-Germain,7129,45.51255920872999,-73.67701068520546,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+657,7e04cea7-60a1-4c66-a1c6-272c89a6df97,Métro du Collège (Cartier / Décarie),7130,45.50843904979172,-73.6729645729065,CREDITCARD,KEY,17,false,false,,,,,,,,,true
+658,0382a293-bef4-46d4-acce-11a2f811feb4,Bibliothèque du Boisé (Thimens / Todd),7131,45.50463493033909,-73.70443224906921,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+659,cc4ccc88-6395-4c60-adbd-337060417059,Ste-Croix / Tassé,7132,45.519492499678165,-73.6851042509079,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+660,804472d6-4078-45eb-b56d-dfa36598806c,Thimens / Alexis-Nihon,7133,45.50897852206792,-73.69856357574463,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+661,da0056b9-8b90-49b3-98ef-e9e8da4d9541,Poirier / O'Brien,7134,45.52246015438048,-73.69156435132027,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+662,f07958e1-1c97-488d-9c91-fc5af07b6903,Cavendish / Poirier,7135,45.50622283591452,-73.71148109436035,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+663,ce9d8184-476d-4694-82df-ce19914d9faa,Marcel-Laurin / Beaudet,7136,45.50684315902468,-73.68175685405731,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+664,d233c7b6-364e-457f-aa03-2b2b9f0d978c,de Lisieux / Jean-Talon,7137,45.57934937043077,-73.58168095350266,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+665,a8ef74e0-2311-4c98-a561-6d85ede53dae,Dumesnil / Bélanger,7138,45.587777966914885,-73.56935352087021,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+666,04e73cf3-52ff-4db2-870d-12dc73abd429,Parc Plage,7139,45.50282785563674,-73.52779269218445,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+667,d2e0271f-1000-45a5-be2b-826bc3d86065,St-Jacques / des Seigneurs,7140,45.489185716082275,-73.57190027832984,CREDITCARD,KEY,51,false,false,,,,,,,,,true
+668,de3734d1-1e5e-41d4-8d32-b67e8d617c41,Turgeon / Notre-Dame,7141,45.478888528072076,-73.58198940753937,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+669,a95dc189-f8e1-4cd6-82fd-891faf88b941,Elgar / de l'Île-des-Sœurs,7142,45.45682318753668,-73.546804189682,CREDITCARD,KEY,14,false,false,,,,,,,,,true
+670,79bc2886-1f1e-4d36-9e73-6a2a01804c87,LaSalle / Godin,7143,45.44693448484644,-73.57219934463501,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+671,858c516c-52f9-4343-b3e8-1f39761519a0,Hickson / Wellington,7144,45.46489251773306,-73.56699787080288,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+672,cfc793a2-de06-4a1f-8eb5-598089b390a4,Argyle / Bannantyne,7145,45.453318765468914,-73.5767751932144,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+673,d6622a9d-b9f1-4cb0-b4e8-3764196c6373,Lusignan / St-Jacques,7146,45.492222393331566,-73.56934815645218,CREDITCARD,KEY,23,false,false,,,,,,,,,true
+674,ee5a7123-8734-49db-90bc-f38bc58fc962,Métro de Castelnau (de Castelnau / Clark),7147,45.53473935096963,-73.62076878547667,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+675,f7d3d0fa-f0ca-47f4-953b-77762e63d799,Papineau / Émile-Journault,7148,45.55988367688166,-73.63356828689575,CREDITCARD,KEY,31,false,false,,,,,,,,,true
+676,b592407b-8242-4697-8d3f-be5525e640d8,16e avenue / Jean-Talon,7149,45.56244008398078,-73.59533339738846,CREDITCARD,KEY,11,false,false,,,,,,,,,true
+682,9dba1653-7543-48b2-99aa-f838cb46f145,du Souvenir / Chomedey,7150,45.55188644388879,-73.74444007873535,CREDITCARD,KEY,15,false,false,,,,,,,,,true
+683,44cbae13-8ad5-4b8f-8db8-37f541c9f192,Métro Montmorency (de l'Avenir / Jacques-Tétreault),7151,45.558108953383545,-73.71959745883942,CREDITCARD,KEY,19,false,false,,,,,,,,,true
+684,0d94b6af-95d3-453c-9bbb-b56d137e9acc,Parc St-Claude (7e avenue / 8e rue),7152,45.56266824826759,-73.6923623085022,CREDITCARD,KEY,27,false,false,,,,,,,,,true
+685,f81acbc2-eda3-45a3-a8fe-34f96230910b,Métro Cartier (des Laurentides / Cartier),7153,45.56002974868339,-73.68133574724197,CREDITCARD,KEY,19,false,false,,,,,,,,,true
