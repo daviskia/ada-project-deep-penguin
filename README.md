@@ -42,8 +42,11 @@ Add here a sketch of your planning for the next project milestone.
 For the 11/11 :
 
 Extract the data of whether => Ariane
+
 How to do arrow on the map of Montreal => Kiara
+
 Get real time data (cap « city ») => Guillaume
+
 Use fiona / pyproj / geopanda / folium to treat spatial data in order to do good representation with the map of Montreal => Quentin
 
 For the 18/11 :
