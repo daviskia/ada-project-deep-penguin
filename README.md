@@ -6,27 +6,11 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 The goal of the project is to analyse the current bikeshare system in Montral and try and optimize the system to promote sustainable and healthy travel for the residents of Montreal. In order to do this we must understand how the system is being used and where the gaps are that may be filled. For example, is the system being used as a replacement for public transport lines or to access areas not well serviced by public transport. Are there areas where more stations could be beneficial to increase the number of users? Are there certain roads that are more bike friendly than others and therefore may encourage bikeshare usage in these areas? Theses questions will allow us to paint a picture of the current usage and where it can be improved. 
 
 # Research questions
-A list of research questions you would like to address during the project. 
+A list of research questions you would like to address during the project.
 
-How has the use of the bikes evolved over time (increased use or decreased)?
-
-At what time of day are the bikes mostly used and what stations are these between?
-
-Do the trips taken allign with existing public transport lines or are they used to fill the gaps of the public transport routes?
+Do the trips taken align with existing public transport lines or are they used to fill the gaps of the public transport routes?
 
 Are there stations where bikes are underused and ones where more are required?
-
-Are some areas of Montreal more bike friendly than others (i.e. have bike lanes or are smaller roads) and is this bike freindliness correlated with more trips done in that area ?
-
-Are most users members?
-
-Do people rent for short periods (single trip) or longer periods (throughout the day)?
-
-Is it mostly used as a commuting service or for more leisurly trips (a long duration between 2 close by stations could indicate leisure whereas a short duration between further stations would indicate commuting)?
-
-
-
-
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
@@ -55,15 +39,20 @@ The first step would be to combine all of the .csv files from the different year
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
-A first step would be to combine the different dataset.
+For the 11/11 :
 
-Second step would be essentially do all kind of graphs that could answer to upper questions : plotting the number of bikes used in funtion of year, time of day, station, uses duration.
+Extract the data of whether => Ariane
+How to do arrow on the map of Montreal => Kiara
+Get real time data (cap « city ») => Guillaume
+Use fiona / pyproj / geopanda / folium to treat spatial data in order to do good representation with the map of Montreal => Quentin
 
-For a better visualisation of the uses of the bikes, we could draw multiple Montreal map containing the informations of public transportation, main bikes road and bixi main axis.
+For the 18/11 :
 
-Third step is answering to the questions. Was our hypothesis correct ? Do we see something unexpected ? Some dataset could be added to try to answer to other interesting questions coming, then repeat step 2 and 3 until we are satisfied.
+End the analysis, answer to questions
 
-To end, we should propose what could be added to/removed from this system to improve it, and what are the consequences we expect from our changes. Would it also improve significantly social good ?
+For the 25/11 : (milestone 2)
+What could be added to/removed from this system to improve it, and what are the consequences we expect from our changes. Would it also improve significantly social good ?
+
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
