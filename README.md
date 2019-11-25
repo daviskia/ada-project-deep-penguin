@@ -16,9 +16,7 @@ BIXI bikeshare data -
 https://montreal.bixi.com/en/open-data
 .csv format
 Contains information on station location, ride duration, start and end points of rides (time and location), whether the user is a member
-Data goes from 2014 to 2019. Each year has a folder of .csv files organized by month. 
-Station location dataset includes coordinates of stations.
-It unfortunatly doesn't include data on the station's status at time of rental (i.e. how many bikes are available at the station, this could affect the number of people using each station)
+Data goes from 2014 to 2019. Each year has a folder of .csv files organized by month. Data is contained in the GitHub folder in "/BikiMontrealRentals"
 
 
 
@@ -34,6 +32,19 @@ http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-de
 Bike paths - http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables
 
 The first step would be to combine all of the .csv files from the different years into a single database. 
+
+# Notebook descriptions
+BikePaths - 
+
+bixi_visual - 
+
+BixiAnalysis - 
+
+BusLines - 
+
+Pipeline - 
+
+Weather - 
 
 # A list of internal milestones up until project milestone 2
 
