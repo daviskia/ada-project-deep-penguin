@@ -36,9 +36,11 @@ The first step would be to combine all of the .csv files from the different year
 # Notebook descriptions
 BikePaths - 
 
-bixi_visual - 
+bixi_visual - exploratory analysis on a month of the 2019 data to experiment with different visualization methods (both statistics and folium maps)
 
-BixiAnalysis - 
+BixiAnalysis - combines BIXI .csv data into a combined dataframe with additional elements (splits up dates, adds distance approximation of rides) initial analysis of bike share data and initial analysis of station use with visualization in folium
+Additional requirements: install haversine library
+Data: saved in Google drive as "combined_data", run notebook from "Load saved combined dataframe.." 
 
 BusLines - 
 
