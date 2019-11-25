@@ -10,7 +10,7 @@ A list of research questions you would like to address during the project.
 
 Do the trips taken align with existing public transport lines or are they used to fill the gaps of the public transport routes?
 
-Are some areas of Montreal more bike-friendly than others (i.e. have bike lanes or are smaller roads) and is this bike friendliness correlated with more trips done in that area?
+Are there stations where bikes are underused and ones where more are required?
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
