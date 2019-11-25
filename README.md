@@ -10,7 +10,7 @@ Research questions can be found in joined.ipynb or alternatively in Pipeline.ipy
 # Setup
 
 Download pickled data here :
-https://drive.google.com/open?id=1sAOp1wm7t1rk450JEKNMmXsbgxMnIznb
+https://drive.google.com/open?id=1IZey_n6xR1WtFI03uY69HgJfeBz4_2Lv
 
 # Datasets
 
@@ -30,10 +30,12 @@ timetable: (only current data)
 http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-des-bus-et-du-metro
 
 Bike paths - http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables
+
+Speed limits - http://donnees.ville.montreal.qc.ca/dataset/panneaux-de-signalisation (based on road signs)
  
 
 # Notebook descriptions 
-
+*Notebook to be graded is Joined.ipynb*
 
 BikePaths - Visualisations of the bikepaths in Montreal
 
