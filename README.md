@@ -49,3 +49,5 @@ Quentin : Created the code to calculate the density of bicycle paths created the
 Ariane : Analysis of the weather dataset and comparison with the number of travel per day
 
 Kiara: Initial analysis of BIXI data, analysis of bike use and stations, created the website template and general descriptions
+
+Every member will work on his own part for the poster.
