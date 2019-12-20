@@ -40,6 +40,8 @@ Weather historic - https://climat.meteo.gc.ca/historical_data/search_historic_da
 # Notebook descriptions 
 *Notebook to be graded is dataStory.ipynb*
 
+# Datastory
+https://daviskia.github.io/
 
 # Member Contribution :
 Guillaume : Plotting maps mainly chloropeths, testing if stations are in a neighbourhood. Focused mainly on public infrastructure.
