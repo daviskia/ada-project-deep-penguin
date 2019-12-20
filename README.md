@@ -43,6 +43,8 @@ Weather historic - https://climat.meteo.gc.ca/historical_data/search_historic_da
 
 # Member Contribution :
 Guillaume : Plotting maps mainly chloropeths, testing if stations are in a neighbourhood. Focused mainly on public infrastructure.
+
 Quentin : Created the code to calculate the density of bicycle paths created the comparison maps between the chloropleth obtained and BIXI stations, metro stations, bus stations and the analysis of the average popularity of a BIXI trip given the surrounding bike path density
+
 Ariane : Analysis of the weather dataset and comparison with the number of travel per day
 
