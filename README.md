@@ -2,7 +2,7 @@
 
 
 # Abstract
-The goal of the project is to analyse the current bikeshare system in Montreal and try and optimize the system to promote sustainable and healthy travel for the residents of Montreal. In order to do this we must understand how the system is being used and where the gaps are that may be filled. For example, is the system being used as a replacement for public transport lines or to access areas not well serviced by public transport? Are there areas where more stations could be beneficial to increase the number of users? Are there certain roads that are more bike friendly than others and therefore may encourage bikeshare usage in these areas? Theses questions will allow us to paint a picture of the current usage and where it can be improved. 
+The goal of the project is to analyse the current bikeshare system in Montreal and try and optimize the system to promote sustainable and healthy travel for the residents of Montreal. In order to do this we must understand how the system is being used and where the gaps are that may be filled. For example, is the system being used as a replacement for public transport lines or to access areas not well serviced by public transport? Are there areas where more stations could be beneficial to increase the number of users? Are there certain roads that are more bike friendly than others and therefore may encourage bikeshare usage in these areas? What is the influence of the weather on the use of the bikeshare system ? Theses questions will allow us to paint a picture of the current usage and where it can be improved. 
 
 # Research questions
 1. Do the trips taken align with existing public transport lines or are they used to fill the gaps of the public transport routes?
@@ -33,6 +33,8 @@ http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-de
 Bike paths - http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables
 
 Speed limits - http://donnees.ville.montreal.qc.ca/dataset/panneaux-de-signalisation (based on road signs)
+
+Weather historic - https://climat.meteo.gc.ca/historical_data/search_historic_data_f.html
  
 
 # Notebook descriptions 
@@ -42,4 +44,5 @@ Speed limits - http://donnees.ville.montreal.qc.ca/dataset/panneaux-de-signalisa
 # Member Contribution :
 Guillaume : Plotting maps mainly chloropeths, testing if stations are in a neighbourhood. Focused mainly on public infrastructure.
 Quentin : Created the code to calculate the density of bicycle paths created the comparison maps between the chloropleth obtained and BIXI stations, metro stations, bus stations and the analysis of the average popularity of a BIXI trip given the surrounding bike path density
+Ariane : Analysis of the weather dataset and comparison with the number of travel per day
 
