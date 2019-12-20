@@ -26,7 +26,7 @@ http://donnees.ville.montreal.qc.ca/dataset/stm-traces-des-lignes-de-bus-et-de-m
 
 This dataset is a shapefile. It contains the gps cordinates of sequences of points representing different traces. It can be converted to geoJSON which may be easier to treat.
 
-timetable and stop locations for busstops: (only current data)
+timetable: (only current data)
 http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-des-bus-et-du-metro
 
 Bike paths - http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables
@@ -35,24 +35,10 @@ Speed limits - http://donnees.ville.montreal.qc.ca/dataset/panneaux-de-signalisa
  
 
 # Notebook descriptions 
-*Notebook to be graded is Joined.ipynb*
-
-BikePaths - Visualisations of the bikepaths in Montreal
-
-bixi_visual - exploratory analysis on a month of the 2019 data to experiment with different visualization methods (both statistics and folium maps)
-
-BixiAnalysis - combines BIXI .csv data into a combined dataframe with additional elements (splits up dates, adds distance approximation of rides) initial analysis of bike share data and initial analysis of station use with visualization in folium
-Additional requirements: install haversine library
-Data: saved in Google drive as "combined_data", run notebook from "Load saved combined dataframe.." 
-
-BusLines - Visualisations of the busline in Montreal
-
-Pipeline - Contains only the planning for the project. 
-
-Joined - Contains the important parts of the different notebooks.
-
-Weather - Currently loads and cleans weather data of Montreal. In the future will have correlation with bike traffic.
+*Notebook to be graded is dataStory.ipynb*
 
 
-# Questions for TAs
-Is there an  easy way to get the density of paths from a geojson file without creating a custom algorithm ? 
+# Member Contribution :
+Guillaume : Plotting maps mainly chloropeths, testing if stations are in a neighbourhood. Focused mainly on public infrastructure.
+
+
