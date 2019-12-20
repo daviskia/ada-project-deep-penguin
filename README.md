@@ -26,7 +26,7 @@ http://donnees.ville.montreal.qc.ca/dataset/stm-traces-des-lignes-de-bus-et-de-m
 
 This dataset is a shapefile. It contains the gps cordinates of sequences of points representing different traces. It can be converted to geoJSON which may be easier to treat.
 
-timetable: (only current data)
+timetable and stop locations for busstops: (only current data)
 http://donnees.ville.montreal.qc.ca/dataset/stm-horaires-planifies-et-trajets-des-bus-et-du-metro
 
 Bike paths - http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables
